@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T10:58:13-04:00",
+  "updatedAt": "2026-06-11T11:03:00-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -9,10 +9,10 @@
     "note": ""
   },
   "bias": {
-    "state": "live - breakdown, shelf switches sides",
-    "analyst": "The first support finally broke - confirmed - and the hour's big bid shelf didn't get eaten, it SWITCHED SIDES entirely. Honest correction: those untested bids Theo read as accumulation were cheap talk; only levels that absorbed real fire count, and the great tested floor below is the one structure that has earned trust. Skepticism must be symmetric: this breakdown is running on the same starved volume that disqualified the morning's breakout, so no chasing it down into that floor. Rotation toward the lower magnet; the first genuine trade invitation of the day would be an extreme with a reclaim - getting closer.",
-    "commentator": "TREACHERY AT MIDFIELD! That seven-thousand-strong supporters' block behind our forward line? They just took off their scarves and joined the AWAY end! Our line breaks, play sweeps toward our box - but hold on, the referee's notebook says this counter has barely any players in it either, same as the morning's flagged run. The real wall - the one that actually made saves all day - waits at the bottom of the pitch. If play reaches the corner flag and bounces... THAT'S when our strikers finally get their moment. End to end stuff now!",
-    "updatedAt": "2026-06-11T10:58:13-04:00"
+    "state": "live - fueled move toward the floor",
+    "analyst": "Volume is back - and it returned on the downside. First fueled move in an hour, pressing toward the one level that has earned its reputation today: the great tested floor. Mid-range shorts stay barred on a range day, and the location would be poor anyway. Everything now hangs on the floor test with real fire behind it: absorb-and-reclaim keeps the range alive; getting eaten opens a liquidation afternoon; and a flush to the true extreme with a climax and reclaim would hand Theo the first sanctioned trade of the day - the extreme-reversal long. Pre-staging the math.",
+    "commentator": "THE CROWD IS BACK AND THE BALL IS MOVING - toward OUR end! Real pace in this attack now, first committed push in an hour, and it's headed straight for the wall that's made every save today. The manager is finally warming up a striker on the touchline - because if this attack overruns into the corner and the wall wins the scramble... the counter-attack is ON. Biggest minutes of the match coming up!",
+    "updatedAt": "2026-06-11T11:03:00-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -79,6 +79,13 @@
       "kind": "bias",
       "analyst": "First contact with the big lid: rejected, on a starving tape - exactly as scripted. Then the day's most aggressive move so far: the sell wall STEPPED DOWN toward price. Defenders don't advance; that's the first genuinely bearish order-flow signal since the open. The box has compressed to three points with enormous symmetrical size on both flanks. Resolution will be violent and, for the first time today, the direction is honestly two-sided. This is exactly when guessing bleeds - Theo waits for volume to pick the winner.",
       "commentator": "CONTACT! Our forwards touched the big bus and bounced straight off - no support from the crowd, no goal. And now, drama: the away wall is WALKING FORWARD, pressing our half! Both squads massed three points apart, thirty thousand a side, total silence from the stands. Folks, this is a penalty-shootout atmosphere - one roar from either crowd decides it. The manager: 'nobody moves until the noise comes back.'"
+    },
+    {
+      "id": "2026-06-11-bias-1047",
+      "time": "10:47",
+      "kind": "bias",
+      "analyst": "Quietest stretch of the day - volume at session lows, momentum flat at zero, price ping-ponging the middle of the box while both giant walls sit unmoved. A third small failed-breakdown at the first support reclaimed immediately: that level is well defended by both sides now. Ranges this tight in a Fed week tend to resolve late in the day, not over lunch. The plan is unchanged and patient: a wall has to get eaten on real volume before anyone here takes a swing.",
+      "commentator": "Lunchtime football, folks - sideways passes in midfield, both walls parked, the crowd's gone for pies. A third sneaky run at our line got swallowed and turned back instantly - that ground is OWNED now. Word from the tactical desk: matches like this one get decided in the final third of play, not now. The squad rotates, hydrates, and keeps one eye on those buses."
     }
   ]
 }
