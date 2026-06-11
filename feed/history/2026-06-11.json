@@ -1,21 +1,11 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T16:08:45-04:00",
-  "status": "closed",
-  "catalysts": {
-    "today": [],
-    "next": [],
-    "nextLabel": "Fri 06-12",
-    "note": ""
-  },
-  "bias": {
-    "state": "live - trigger fired, math said pass",
-    "analyst": "The armed condition fired - real volume finally pressing through the near shelf - and Theo passed anyway, on arithmetic: from here the honest stop and the honest target barely clear one-to-one, failing the minimum-reward rule unless you assume the next shelf simply dissolves. Assumptions are not structures. The juice in this move was the earlier entry at the retest, and the lab drank it. If the closing crowd genuinely breaks the upper shelf on volume, the map opens and the decision is re-made with real structure. Until then: leaving the party while it is still fun.",
-    "commentator": "The crowd FINALLY roars and the near line is being eaten alive - but the manager holds the striker AGAIN! Listen to his reasoning, folks: 'the goal we'd be shooting at is one step away, but their second bus is parked right behind it - the run we'd make today is the one we ALREADY made at better odds.' Two-nil with ten minutes of chess left. Championship game management, whatever happens next!",
-    "updatedAt": "2026-06-11T14:51:15-04:00"
-  },
-  "strategyFamily": null,
   "dayR": 3.38,
+  "trades": 2,
+  "matchReport": {
+    "analyst": "Match report: 2 trades (2W/0L) for +3.38R on a normal tape in a risk-on market. Every decision goes through tonight's review - the losses loudest.",
+    "commentator": "Full-time report: +3.38R after 2 attacks (2 scored, 0 conceded) on a normal tape. A risk-on market made it a scrappy fixture either way."
+  },
   "events": [
     {
       "id": "2026-06-11-system-1",

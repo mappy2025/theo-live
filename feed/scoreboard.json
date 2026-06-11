@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-11T00:30:00-04:00",
-  "sessions": 7,
-  "tradeWins": 7,
+  "updatedAt": "2026-06-11T16:08:45-04:00",
+  "sessions": 8,
+  "tradeWins": 9,
   "tradeLosses": 4,
-  "netR": -1.01,
+  "netR": 2.37,
   "incubationDay": 1,
   "incubationTotal": 30,
-  "candidatesRegistered": 7,
+  "candidatesRegistered": 8,
   "refutedIdeas": 1,
-  "note": "Complete, unedited paper-trading record since the lab's first published session (2026-06-02). R = simulated risk units: +1R means one full simulated risk unit gained. Yes, the lab is slightly down - that's the point of publishing honestly. The 30-session incubation started 2026-06-10."
+  "note": "Complete, unedited paper-trading record since the lab's first published session (2026-06-02). R = simulated risk units. Published nightly, wins and losses alike - that is the point."
 }
