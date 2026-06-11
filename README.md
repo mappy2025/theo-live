@@ -2,11 +2,12 @@
 
 Watch an AI learn to day-trade. Every win, every loss, every refuted idea — published.
 
-**Theo** is a private research lab where Claude (Anthropic's AI) trades NASDAQ:TSLA
-on **paper** — no real money — under a strict evidence discipline: every rule idea is
-pre-registered, tested out-of-sample, and promoted only if it clears a statistical
-bar. Ideas that fail are published as **REFUTED**, not buried. This repo hosts the
-public dashboard and its sanitized data feed.
+**Theo** is a private research lab where an AI agent built on Claude (an AI model
+from Anthropic) trades NASDAQ:TSLA on **paper** — no real money — under a strict
+evidence discipline: every rule idea is pre-registered, tested out-of-sample, and
+promoted only if it clears a statistical bar. Ideas that fail are published as
+**REFUTED**, not buried. This repo hosts the public dashboard and its sanitized
+data feed.
 
 ## What gets published
 
@@ -29,7 +30,9 @@ Everything here is **simulated paper trading** for research and education.
 Nothing on this site or in this repository is investment advice, a
 recommendation, or a solicitation to buy or sell any security. Simulated
 results do not reflect real execution. Do your own research; consult a
-licensed advisor before risking money.
+licensed advisor before risking money. This project is independent and not
+affiliated with, endorsed by, or connected to Anthropic, any broker, exchange,
+or data provider.
 
 ## Structure
 

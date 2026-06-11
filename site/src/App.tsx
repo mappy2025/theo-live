@@ -3,17 +3,11 @@ import { FEED_BASE, POLL_MS, DONATE_TIERS } from './config'
 import type { TodayFeed, Scoreboard, Voice, FeedEvent } from './types'
 
 const KIND_ICON: Record<string, string> = {
-  system: '📣',
-  kickoff: '🔔',
-  chance: '👀',
-  attack: '⚔️',
-  goal: '⚽',
-  conceded: '🥅',
-  exit: '🚪',
-  advisory: '🧠',
-  fulltime: '🔚',
-  bias: '🧭',
+  system: '📣', kickoff: '🔔', chance: '👀', attack: '⚔️', goal: '⚽',
+  conceded: '🥅', exit: '🚪', advisory: '🧠', fulltime: '🔚', bias: '🧭',
 }
+
+const REPO_URL = 'https://github.com/mappy2025/theo-live'
 
 async function getJson<T>(path: string): Promise<T | null> {
   try {
@@ -25,9 +19,29 @@ async function getJson<T>(path: string): Promise<T | null> {
   }
 }
 
+interface HistoryDay {
+  date: string
+  dayR: number | null
+  trades: number
+  matchReport: { analyst: string; commentator: string }
+}
+
+function lastWeekdays(n: number): string[] {
+  const out: string[] = []
+  const d = new Date()
+  d.setDate(d.getDate() - 1)
+  while (out.length < n) {
+    if (d.getDay() !== 0 && d.getDay() !== 6) out.push(d.toISOString().slice(0, 10))
+    d.setDate(d.getDate() - 1)
+  }
+  return out
+}
+
 function useFeed() {
   const [today, setToday] = useState<TodayFeed | null>(null)
   const [score, setScore] = useState<Scoreboard | null>(null)
+  const [history, setHistory] = useState<HistoryDay[]>([])
+  const [failed, setFailed] = useState(false)
   useEffect(() => {
     let alive = true
     const load = async () => {
@@ -38,50 +52,73 @@ function useFeed() {
       if (!alive) return
       if (t) setToday(t)
       if (s) setScore(s)
+      setFailed(!t && !s)
+    }
+    const loadHistory = async () => {
+      const days = await Promise.all(
+        lastWeekdays(10).map(d => getJson<HistoryDay>(`history/${d}.json`)))
+      if (alive) setHistory(days.filter((d): d is HistoryDay => d !== null))
     }
     load()
+    loadHistory()
     const id = setInterval(load, POLL_MS)
     return () => { alive = false; clearInterval(id) }
   }, [])
-  return { today, score }
+  return { today, score, history, failed }
 }
 
 function VoiceToggle({ voice, setVoice }: { voice: Voice; setVoice: (v: Voice) => void }) {
   return (
     <div>
-      <div className="voice-toggle" role="tablist" aria-label="Feed voice">
-        <button className={voice === 'commentator' ? 'on' : ''} onClick={() => setVoice('commentator')}>
+      <span className="voice-label">Voice:</span>
+      <div className="voice-toggle" role="group" aria-label="Feed voice">
+        <button aria-pressed={voice === 'commentator'} className={voice === 'commentator' ? 'on' : ''}
+                onClick={() => setVoice('commentator')}>
           ⚽ Commentator
         </button>
-        <button className={voice === 'analyst' ? 'on' : ''} onClick={() => setVoice('analyst')}>
+        <button aria-pressed={voice === 'analyst'} className={voice === 'analyst' ? 'on' : ''}
+                onClick={() => setVoice('analyst')}>
           🎓 Analyst
         </button>
       </div>
       <span className="voice-hint">
-        {voice === 'commentator' ? 'the trading day, called like a match' : 'the same events, explained calmly'}
+        {voice === 'commentator'
+          ? 'the trading day, called like a football match'
+          : 'the same events, explained calmly'}
       </span>
     </div>
   )
 }
 
-function Catalysts({ today }: { today: TodayFeed }) {
-  const c = today.catalysts
+function ScoreboardCard({ score }: { score: Scoreboard }) {
+  const net = score.netR
   return (
     <section className="card">
-      <h2>Market catalysts</h2>
-      <div className="cat-line">
-        <span className="cat-day">Today</span>
-        {c.today.length
-          ? <span className="cat-events">{c.today.join(' · ')}</span>
-          : <span className="cat-none">none scheduled</span>}
+      <h2>The honest scoreboard</h2>
+      <div className="score-grid">
+        <div className="score-cell">
+          <div className={`v ${net > 0 ? 'pos' : net < 0 ? 'neg' : ''}`}>{net > 0 ? '+' : ''}{net.toFixed(2)}R</div>
+          <div className="k">net result</div>
+          {net < 0 && <div className="cap">negative, and published anyway — that's the deal</div>}
+        </div>
+        <div className="score-cell">
+          <div className="v">{score.tradeWins}W–{score.tradeLosses}L</div>
+          <div className="k">paper trades</div>
+        </div>
+        <div className="score-cell">
+          <div className="v">{score.sessions}</div>
+          <div className="k">sessions</div>
+        </div>
+        <div className="score-cell">
+          <div className="v">{score.incubationDay}/{score.incubationTotal}</div>
+          <div className="k">incubation</div>
+        </div>
+        <div className="score-cell">
+          <div className="v">{score.refutedIdeas}</div>
+          <div className="k">ideas refuted</div>
+        </div>
       </div>
-      <div className="cat-line">
-        <span className="cat-day">{c.nextLabel}</span>
-        {c.next.length
-          ? <span className="cat-events">{c.next.join(' · ')}</span>
-          : <span className="cat-none">none scheduled</span>}
-      </div>
-      {c.note && <p className="muted small">{c.note}</p>}
+      <p className="muted small">{score.note}</p>
     </section>
   )
 }
@@ -90,12 +127,16 @@ function Bias({ today, voice }: { today: TodayFeed; voice: Voice }) {
   return (
     <section className="card">
       <h2>Market bias</h2>
-      {today.bias ? <p>{today.bias[voice]}</p> : <p className="muted">No read yet.</p>}
+      {today.bias ? <p>{today.bias[voice]}</p> : <p className="muted">No read yet today.</p>}
       {today.strategyFamily && (
         <p className="muted small">
           Playing style today: <strong>{today.strategyFamily.label}</strong> — {today.strategyFamily[voice]}
         </p>
       )}
+      <p className="muted small">
+        Theo's own delayed research read — not a forecast, a rating, or a recommendation
+        to trade anything.
+      </p>
     </section>
   )
 }
@@ -123,62 +164,122 @@ function Feed({ today, voice }: { today: TodayFeed; voice: Voice }) {
   )
 }
 
-function ScoreboardCard({ score }: { score: Scoreboard }) {
-  const net = score.netR
+function History({ history, voice }: { history: HistoryDay[]; voice: Voice }) {
+  const [open, setOpen] = useState<string | null>(null)
+  if (history.length === 0) return null
   return (
     <section className="card">
-      <h2>The honest scoreboard</h2>
-      <div className="score-grid">
-        <div className="score-cell">
-          <div className={`v ${net > 0 ? 'pos' : net < 0 ? 'neg' : ''}`}>{net > 0 ? '+' : ''}{net.toFixed(2)}R</div>
-          <div className="k">net result</div>
-        </div>
-        <div className="score-cell">
-          <div className="v">{score.tradeWins}W–{score.tradeLosses}L</div>
-          <div className="k">paper trades</div>
-        </div>
-        <div className="score-cell">
-          <div className="v">{score.sessions}</div>
-          <div className="k">sessions</div>
-        </div>
-        <div className="score-cell">
-          <div className="v">{score.incubationDay}/{score.incubationTotal}</div>
-          <div className="k">incubation</div>
-        </div>
-        <div className="score-cell">
-          <div className="v">{score.refutedIdeas}</div>
-          <div className="k">ideas refuted</div>
-        </div>
+      <h2>Previous sessions</h2>
+      <ul className="hist">
+        {history.map(h => {
+          const r = h.dayR
+          const cls = r == null ? '' : r > 0 ? 'pos' : r < 0 ? 'neg' : ''
+          return (
+            <li key={h.date}>
+              <button className="hist-row" onClick={() => setOpen(open === h.date ? null : h.date)}
+                      aria-expanded={open === h.date}>
+                <span className="hist-date">{h.date}</span>
+                <span className="hist-trades">{h.trades} trade{h.trades === 1 ? '' : 's'}</span>
+                <span className={`hist-r ${cls}`}>{r == null ? '—' : `${r > 0 ? '+' : ''}${r.toFixed(2)}R`}</span>
+              </button>
+              {open === h.date && <p className="hist-report">{h.matchReport[voice]}</p>}
+            </li>
+          )
+        })}
+      </ul>
+      <p className="muted small">
+        Every session is archived, wins and losses alike — the raw files live{' '}
+        <a href={`${REPO_URL}/tree/main/feed/history`} style={{ color: 'inherit' }}>on GitHub</a>.
+      </p>
+    </section>
+  )
+}
+
+function Catalysts({ today }: { today: TodayFeed }) {
+  const c = today.catalysts
+  return (
+    <section className="card">
+      <h2>Market catalysts</h2>
+      <div className="cat-line">
+        <span className="cat-day">Today</span>
+        {c.today.length
+          ? <span className="cat-events">{c.today.join(' · ')}</span>
+          : <span className="cat-none">none scheduled</span>}
       </div>
-      <p className="muted small">{score.note}</p>
+      <div className="cat-line">
+        <span className="cat-day">{c.nextLabel}</span>
+        {c.next.length
+          ? <span className="cat-events">{c.next.join(' · ')}</span>
+          : <span className="cat-none">none scheduled</span>}
+      </div>
+      {c.note && <p className="muted small">{c.note}</p>}
+    </section>
+  )
+}
+
+function About() {
+  return (
+    <section className="card">
+      <h2>About the lab</h2>
+      <p>
+        Theo is a private research lab run by an independent trader-developer, with an AI
+        agent built on Claude (an AI model from Anthropic) as the lab's reasoning engine.
+        Every weekday it studies one stock on <strong>paper</strong> — simulated money,
+        real discipline.
+      </p>
+      <p className="muted">
+        The loop that matters happens after the close: every trade is reviewed, every
+        idea is backtested causally (no peeking at the future), lessons are written, and
+        rule candidates must survive a pre-registered statistical bar on out-of-sample
+        data before they're ever trusted. Ideas that fail are published as
+        <strong> refuted</strong> — that counter on the scoreboard is real.
+      </p>
+      <p className="muted small">
+        How it works in detail: <a href={REPO_URL} style={{ color: 'inherit' }}>the open feed repo</a>.
+        Contact: <a href={`${REPO_URL}/issues`} style={{ color: 'inherit' }}>GitHub issues</a>.
+      </p>
     </section>
   )
 }
 
 function Support() {
+  const anyLive = DONATE_TIERS.some(t => t.url)
   return (
     <section className="card">
       <h2>Support the lab</h2>
       <p>
         Theo Live is an independent research experiment — no sponsors, no signal-selling,
         no real-money management. If watching an AI learn to trade in the open is worth
-        something to you, you can fund the experiment. Early supporters become
-        <strong> founding members</strong> when memberships launch.
+        something to you, you can fund the experiment. As a thank-you, early supporters
+        get <strong>founding-member status</strong> if and when memberships launch.
       </p>
-      <div className="tiers">
-        {DONATE_TIERS.map((t) => (
-          <div className="tier" key={t.amount}>
-            <div className="amt">{t.amount}</div>
-            <div className="reward">{t.reward}</div>
-            {t.url
-              ? <a className="btn" href={t.url} target="_blank" rel="noopener noreferrer">Support</a>
-              : <span className="btn">coming soon</span>}
+      {anyLive ? (
+        <div className="tiers">
+          {DONATE_TIERS.map((t) => (
+            <div className="tier" key={t.amount}>
+              <div className="amt">{t.amount}</div>
+              <div className="reward">{t.reward}</div>
+              {t.url
+                ? <a className="btn" href={t.url} target="_blank" rel="noopener noreferrer">Support</a>
+                : <span className="btn">coming soon</span>}
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div className="tier wide">
+          <div className="reward">
+            Donations open shortly (payment links are being set up). Meanwhile, the one
+            thing that genuinely helps: follow the experiment.
           </div>
-        ))}
-      </div>
+          <a className="btn" href={REPO_URL} target="_blank" rel="noopener noreferrer">
+            ⭐ Star the lab on GitHub
+          </a>
+        </div>
+      )}
       <p className="muted small">
-        Donations fund research and infrastructure. They buy membership perks at launch —
-        never trading signals, advice, or returns.
+        Contributions are one-time, voluntary support for research and infrastructure —
+        not purchases of advice, signals, or returns, and not investments. Founding-member
+        perks apply if and when memberships launch; no delivery date is promised.
       </p>
     </section>
   )
@@ -220,13 +321,14 @@ function Disclaimer() {
 }
 
 export default function App() {
-  const { today, score } = useFeed()
+  const { today, score, history, failed } = useFeed()
   const [voice, setVoice] = useState<Voice>(() =>
     (localStorage.getItem('voice') as Voice) || 'commentator')
   useEffect(() => { localStorage.setItem('voice', voice) }, [voice])
 
   const status = today?.status ?? 'pre-open'
   const statusLabel = status === 'live' ? '● LIVE' : status === 'closed' ? 'market closed' : 'pre-open'
+  const updated = today?.updatedAt ? today.updatedAt.slice(11, 16) : null
 
   return (
     <>
@@ -238,7 +340,9 @@ export default function App() {
         <header className="site">
           <div className="brand-row">
             <h1 className="brand">Theo <span className="live-dot">Live</span></h1>
-            <span className={`status-chip ${status === 'live' ? 'live' : ''}`}>{statusLabel}</span>
+            <span className={`status-chip ${status === 'live' ? 'live' : ''}`}>
+              {statusLabel}{updated ? ` · upd ${updated} ET` : ''}
+            </span>
           </div>
           <p className="tagline">
             Watch an AI learn to day-trade — every win, every loss, every refuted idea, published.
@@ -246,19 +350,30 @@ export default function App() {
           <VoiceToggle voice={voice} setVoice={setVoice} />
         </header>
 
-        {today && <Catalysts today={today} />}
+        {failed && (
+          <section className="card">
+            <p className="muted">
+              The live feed is temporarily unreachable. It lives in the open at{' '}
+              <a href={`${REPO_URL}/tree/main/feed`} style={{ color: 'inherit' }}>github.com/mappy2025/theo-live</a> —
+              nothing is hidden, just briefly unfetchable.
+            </p>
+          </section>
+        )}
+        {score && <ScoreboardCard score={score} />}
         {today && <Bias today={today} voice={voice} />}
         {today && <Feed today={today} voice={voice} />}
-        {score && <ScoreboardCard score={score} />}
-        {!today && !score && (
+        <History history={history} voice={voice} />
+        {today && <Catalysts today={today} />}
+        {!today && !score && !failed && (
           <section className="card"><p className="muted">Loading the lab…</p></section>
         )}
+        <About />
         <Support />
         <Disclaimer />
 
         <footer>
           Theo Live · a transparent AI trading-lab experiment ·{' '}
-          <a href="https://github.com/mappy2025/theo-live" style={{ color: 'inherit' }}>open feed on GitHub</a>
+          <a href={REPO_URL} style={{ color: 'inherit' }}>open feed on GitHub</a>
         </footer>
       </div>
     </>
