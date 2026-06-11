@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T11:03:00-04:00",
+  "updatedAt": "2026-06-11T11:08:03-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -9,10 +9,10 @@
     "note": ""
   },
   "bias": {
-    "state": "live - fueled move toward the floor",
-    "analyst": "Volume is back - and it returned on the downside. First fueled move in an hour, pressing toward the one level that has earned its reputation today: the great tested floor. Mid-range shorts stay barred on a range day, and the location would be poor anyway. Everything now hangs on the floor test with real fire behind it: absorb-and-reclaim keeps the range alive; getting eaten opens a liquidation afternoon; and a flush to the true extreme with a climax and reclaim would hand Theo the first sanctioned trade of the day - the extreme-reversal long. Pre-staging the math.",
-    "commentator": "THE CROWD IS BACK AND THE BALL IS MOVING - toward OUR end! Real pace in this attack now, first committed push in an hour, and it's headed straight for the wall that's made every save today. The manager is finally warming up a striker on the touchline - because if this attack overruns into the corner and the wall wins the scramble... the counter-attack is ON. Biggest minutes of the match coming up!",
-    "updatedAt": "2026-06-11T11:03:00-04:00"
+    "state": "live - downside attack absorbed",
+    "analyst": "The fueled push never reached the great floor - it died one level early, and a brand-new eleven-thousand bid shelf now sits exactly where the attack was absorbed. Unlike the morning's phantom shelf that switched sides untouched, this one took live fire and held: it has earned its stripes. Both directional attempts have now failed on their first real fuel, but the asymmetry grows - the defense keeps advancing up the field while the offense's walls keep retreating. A slow accumulation profile is forming. Still no trade: no wall has been eaten on volume, and the extreme never printed.",
+    "commentator": "The counter-attack DIES in midfield! Never even reached our box - and look: a fresh wall of eleven thousand home fans now holds the exact ground where the attack was swallowed. That's the third time today our side wins ground and KEEPS it - [number], [number], now [number] - the home line keeps marching UP the pitch while the away buses keep reversing. Both teams have failed one big attack each. The chess match continues after the lunch whistle - advantage, quietly, to the home side.",
+    "updatedAt": "2026-06-11T11:08:03-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -86,6 +86,13 @@
       "kind": "bias",
       "analyst": "Quietest stretch of the day - volume at session lows, momentum flat at zero, price ping-ponging the middle of the box while both giant walls sit unmoved. A third small failed-breakdown at the first support reclaimed immediately: that level is well defended by both sides now. Ranges this tight in a Fed week tend to resolve late in the day, not over lunch. The plan is unchanged and patient: a wall has to get eaten on real volume before anyone here takes a swing.",
       "commentator": "Lunchtime football, folks - sideways passes in midfield, both walls parked, the crowd's gone for pies. A third sneaky run at our line got swallowed and turned back instantly - that ground is OWNED now. Word from the tactical desk: matches like this one get decided in the final third of play, not now. The squad rotates, hydrates, and keeps one eye on those buses."
+    },
+    {
+      "id": "2026-06-11-bias-1052",
+      "time": "10:52",
+      "kind": "bias",
+      "analyst": "Everything on the book got bigger while nothing moved: both walls and both shelves added size as traded volume kept shrinking. That combination - passive armies growing, active battle absent - is market makers warehousing in quiet conditions. It is potential energy: every hour the imbalance builds, the eventual resolution grows with it. The first support has now been defended four times. Theo holds flat through the lunch lull; the afternoon inherits a loaded spring.",
+      "commentator": "Both stadiums keep FILLING but nobody's playing! More defenders on the buses, more fans behind the wall, and the ball just rolls around midfield. Four times now someone's poked at our line - turned away every time. The old heads in the press box know what this means: the longer the standoff, the bigger the finale. Lunch break - but nobody dares leave their seat."
     }
   ]
 }
