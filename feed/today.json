@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-11",
+  "updatedAt": "2026-06-11T00:30:00-04:00",
+  "status": "pre-open",
+  "catalysts": {
+    "today": [],
+    "next": [],
+    "nextLabel": "Fri 06-12",
+    "note": "No scheduled catalysts today or tomorrow. Next week is loaded: FOMC decision Wed 06-17, quad-witching options expiration Thu 06-18."
+  },
+  "bias": {
+    "state": "pre-open",
+    "analyst": "Markets are closed. Theo forms its bias after the first 30 minutes of trading - committing to a direction before the opening range resolves is guessing, and the lab does not guess.",
+    "commentator": "The stadium is dark, the pitch is being watered. Team talk happens at 9:15 ET, kickoff at 9:30. Theo never predicts the score before the whistle.",
+    "updatedAt": "2026-06-11T00:30:00-04:00"
+  },
+  "strategyFamily": null,
+  "dayR": null,
+  "events": [
+    {
+      "id": "2026-06-11-system-1",
+      "time": "00:30",
+      "kind": "system",
+      "analyst": "Theo Live is now public. From here on, session events appear in this feed with a delay - wins, losses, and the days we sit on our hands.",
+      "commentator": "Welcome to the grounds! The gates are open for the first time. Pre-season record is on the board - including the losses. We hide nothing here, folks."
+    }
+  ]
+}
