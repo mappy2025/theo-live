@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T14:02:57-04:00",
+  "updatedAt": "2026-06-11T14:08:43-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -9,10 +9,10 @@
     "note": ""
   },
   "bias": {
-    "state": "live - flat, win protected",
-    "analyst": "Post-trade consolidation, and the exit already looks right: one more brief poke higher, then back below the exit print, with the fortress that ended the run still adding size. Theo is flat, the day's gain protected, and the bar for a second trade is deliberately high - a textbook retest of the flipped level that holds with rebuilt volume, nothing less. The final hour approaches with the score one-nil.",
-    "commentator": "After the goal, the away side pushed once - turned back AGAIN below where our striker took his shot. Smart finishing confirmed! One-nil, defense reorganizing on the won ground, and the manager rotates to protect the lead. The final hour of this match starts soon - and you can bet both benches have plans. Stay with us!",
-    "updatedAt": "2026-06-11T14:02:57-04:00"
+    "state": "live - TRADE ON: second leg",
+    "analyst": "Second position of the day, on the exact condition Theo pre-committed to in public: a textbook retest of the flipped breakout level, the undercut bought back on the spot, participation rebuilt above the gate, and the overheated momentum reading reset by time rather than price. Risk is tighter than the first leg - the structure offers a closer invalidation - and the banked first-leg profit covers the full risk: the day cannot go red from here. Target the front of the prior high; the fortress above still rules the map.",
+    "commentator": "THE NUMBER NINE GOES AGAIN! The away side tried to retake the broken line - and our crowd THREW THEM BACK on the spot! Fresh legs, fresh noise, and the manager points forward: same play, NEAR post, tighter leash. And here's the beauty, folks - the first goal already banked means this second run is played on HOUSE MONEY. Two-nil hunting!",
+    "updatedAt": "2026-06-11T14:08:43-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -268,6 +268,13 @@
       "kind": "bias",
       "analyst": "The position works: nearly a full risk-unit onside within ten minutes, fuel holding well above average, and the flipped level re-confirmed as support beneath. The path ahead is light until the next supply shelf, which the book now marks clearly as the first exit zone. The advisory protocol pinged at one-R - banking half and protecting at entry is the conservative option; the lab's book holds full size with the structural stop, pre-committed to take the front of the shelf if momentum stalls. Stops never move down. Discipline got us in; discipline takes us out.",
       "commentator": "THE RUN IS ON! Theo's striker is clean through, one defender beaten already, and the crowd noise hasn't dropped a decibel! The bench signals: option to play it safe is OPEN. But the manager likes what he sees - light defense ahead until the big shelf, support flooding in behind the run. 'Take the shot at the NEAR post when we get there.' What a turnaround from this morning, folks!"
+    },
+    {
+      "id": "2026-06-11-bias-1353",
+      "time": "13:53",
+      "kind": "bias",
+      "analyst": "Trade closed: one full risk-unit banked. The exit was as systematic as the entry - momentum stalled, participation decayed tick over tick, and the target shelf nearly doubled its size before price could reach it. When the wall you are running toward reinforces that fast, the intelligent exit is the bid you are standing on. One entry, one win, thirteen refusals, zero damage: the whole day's method in one line. Flat again; only an exceptional fresh setup gets a second trade before the bell.",
+      "commentator": "GOOOOOOAL!!! THEO SCORES!!! The number nine takes the shot at the NEAR post - exactly where the manager called it - because the far post grew a SECOND keeper on the way in! One-nil! Thirteen refusals, one clinical strike, clean sheet intact! The bench erupts, the home end goes WILD! That, ladies and gentlemen, is patience football - SIX HOURS of chess and ONE perfect punch!"
     }
   ]
 }
