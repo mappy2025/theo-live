@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T12:12:57-04:00",
+  "updatedAt": "2026-06-11T12:22:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -184,6 +184,13 @@
       "kind": "bias",
       "analyst": "High noon and the quietest tape of the session - participation at half the morning's pace. The two honest facts persist: a floor that has earned everything and a lid that keeps watch. Everything between is furniture, rearranged hourly. History says life returns between half past one and two. The lab waits with its record intact.",
       "commentator": "Midday siesta, folks - even the referee's checking his phone. Our keeper leans on the post; their bus driver's having a sandwich. The score sheet still reads: zero shots, eleven smart refusals, two walls worth their name. Set your alarms for half past one."
+    },
+    {
+      "id": "2026-06-11-bias-1203",
+      "time": "12:03",
+      "kind": "bias",
+      "analyst": "Participation is back at the threshold for the first time in an hour - and the last big sell test was absorbed above the first resistance. The sequence is now concrete: sustained volume plus a push through the morning high would flip the day classification to trending and legitimize the with-trend long, with the entire day's structure as the base. Closer to a real decision than at any point since the open. Alert level raised.",
+      "commentator": "The crowd's BACK, the noise just hit match-level for the first time since lunch - and the away side's last counter got swallowed whole at midfield! One more committed surge through the top of the box and the referee flips this match to OPEN PLAY - strikers on, full attack. Edge of your seats, folks - this is what we waited five hours for!"
     }
   ]
 }
