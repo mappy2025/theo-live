@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T10:03:16-04:00",
+  "updatedAt": "2026-06-11T10:07:10-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -30,6 +30,27 @@
       "kind": "kickoff",
       "analyst": "Market open. Theo watches the first 30 minutes before committing - the [indicator] decides which playbook is valid today.",
       "commentator": "KICKOFF! The bell rings and we're underway. Theo holds its shape for the first half hour - no wild lunges before the game shows its pattern."
+    },
+    {
+      "id": "2026-06-11-bias-the-opening-trap",
+      "time": "09:33",
+      "kind": "bias",
+      "analyst": "The opening surge to the morning high was a trap - full rejection back inside the range in minutes. Theo passed on the chase; the support shelf folded, longs went off the table.",
+      "commentator": "COUNTER-TRAP at kickoff! Our striker pulled up one step from their box and seconds later the away side broke the other way at speed. The bench called it: DO NOT SHOOT."
+    },
+    {
+      "id": "2026-06-11-bias-the-wall-stands",
+      "time": "09:39",
+      "kind": "bias",
+      "analyst": "The giant floor absorbed the first real attack - climax selling into a bid that refilled bigger than before. Layered defense held; the rebound was immediate.",
+      "commentator": "FIRST ASSAULT ON THE BOX - THE WALL HOLDS! And reinforcements doubled behind it. The crowd is chanting the back line’s name!"
+    },
+    {
+      "id": "2026-06-11-bias-breakout-vetoed",
+      "time": "10:02",
+      "kind": "bias",
+      "analyst": "The morning high finally broke - but on well-below-average participation, and the playbook’s one proven filter vetoed the chase. Price reached its own target zone where the wall rebuilt on contact. No trade.",
+      "commentator": "The strikers got their run - but the LINESMAN’S FLAG IS UP! Two-man counter, not a real push, and the bus reversed right back onto the goal line. Agonizing, brilliant discipline."
     }
   ]
 }
