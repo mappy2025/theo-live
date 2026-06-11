@@ -1,18 +1,18 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T09:08:51-04:00",
+  "updatedAt": "2026-06-11T09:15:12-04:00",
   "status": "pre-open",
   "catalysts": {
     "today": [],
     "next": [],
     "nextLabel": "Fri 06-12",
-    "note": "No scheduled catalysts today or tomorrow. Next week is loaded: FOMC decision Wed 06-17, quad-witching options expiration Thu 06-18."
+    "note": ""
   },
   "bias": {
     "state": "pre-open",
-    "analyst": "Gap up about one percent after yesterday's lower shelf survived a six-hour attack - the absorbed sellers are paying for it this morning. Price parked just under the first upper resistance band. Plan: let the first 30 minutes classify the day; chase nothing before confirmation. A hold above the upper band targets continuation; losing the mid-range reference reopens the trapdoor scenario.",
-    "commentator": "The home side won the siege yesterday and they're up early this morning! Theo's squad walks out confident, pressing right at the away team's first defensive line before kickoff. The manager's orders: no shots before the first half-hour tells us what kind of match this is. Break that line and hold it - we attack. Lose midfield - everyone back to defend.",
-    "updatedAt": "2026-06-11T09:08:51-04:00"
+    "analyst": "Pre-market: a small gap up into a normal regime; the broad-market tide is falling. Theo commits to nothing until the first 30 minutes classify the day.",
+    "commentator": "Team news: a small gap up on the schedule, a normal regime expected, away support falling. Lineups locked at 9:30 - the first half hour decides the game plan.",
+    "updatedAt": "2026-06-11T09:15:12-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
