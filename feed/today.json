@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T12:22:44-04:00",
+  "updatedAt": "2026-06-11T12:32:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -191,6 +191,13 @@
       "kind": "bias",
       "analyst": "Participation is back at the threshold for the first time in an hour - and the last big sell test was absorbed above the first resistance. The sequence is now concrete: sustained volume plus a push through the morning high would flip the day classification to trending and legitimize the with-trend long, with the entire day's structure as the base. Closer to a real decision than at any point since the open. Alert level raised.",
       "commentator": "The crowd's BACK, the noise just hit match-level for the first time since lunch - and the away side's last counter got swallowed whole at midfield! One more committed surge through the top of the box and the referee flips this match to OPEN PLAY - strikers on, full attack. Edge of your seats, folks - this is what we waited five hours for!"
+    },
+    {
+      "id": "2026-06-11-bias-1212",
+      "time": "12:12",
+      "kind": "bias",
+      "analyst": "The grind is upward again and the first resistance has flipped to support - but this exact shape, approaching the big lid while volume fades, has been rejected twice today, and the lid is growing into the approach once more. Without real participation on the touch, expect a third rejection and no regrets. The flip trigger is unchanged: the morning high on sustained volume.",
+      "commentator": "Here we go again - our side strolls up the pitch, but the away bus is REFILLING as we approach, and half the crowd's still at the concession stand. Twice today this stroll got turned back at the same gate. The manager wants a ROAR, not a murmur, before anyone shoots. Third knock at the door coming up..."
     }
   ]
 }
