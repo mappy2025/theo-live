@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T14:13:05-04:00",
+  "updatedAt": "2026-06-11T14:18:33-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -9,10 +9,10 @@
     "note": ""
   },
   "bias": {
-    "state": "live - leg 2 working, retest held to the",
-    "analyst": "The second position works and its thesis is already structurally validated - the pullback low printed on the flipped level to the exact cent before bouncing. Defense keeps growing beneath the position. The one watch-item is fuel: participation dried up after entry, so the push to target needs the tape to re-engage - and the final hour, which usually brings it, is close. Stop firm, targets staged, fronts of walls only.",
-    "commentator": "Textbook from the number nine - the away side's counter died EXACTLY on the line we broke, to the CENTIMETER, and our crowd surged back behind him! More defenders flooding in beneath the run. The legs are a touch heavy mid-pitch, but the final hour - when the whole stadium wakes up - is minutes away. Two-nil is ON, folks!",
-    "updatedAt": "2026-06-11T14:13:05-04:00"
+    "state": "live - GOAL #2: day at +3.4R",
+    "analyst": "Second trade closed for more than two risk-units - the day stands at three-point-four. The exit logic repeated the first: price pushed into the target zone on the thinnest tape of the move while the shelf ahead fattened; strength without fuel under growing supply is borrowed time. Two entries, two systematic exits, thirteen refusals, the stop never touched on either. The lab banks the day and raises the bar for any third trade to 'exceptional only' - protecting a great day is a skill the playbook practices deliberately.",
+    "commentator": "TWO-NIL!!! THE NUMBER NINE DOES IT AGAIN!!! Same move, same near-post finish - the keeper never SAW it! Thirteen refusals, two clinical strikes, not a single shot conceded all match! The away bus at the top of the box never even got tested - our striker simply refused to play their game. The crowd is singing, the bench is dancing - THIS, friends, is what six hours of patience buys you!",
+    "updatedAt": "2026-06-11T14:18:33-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -275,6 +275,20 @@
       "kind": "bias",
       "analyst": "Trade closed: one full risk-unit banked. The exit was as systematic as the entry - momentum stalled, participation decayed tick over tick, and the target shelf nearly doubled its size before price could reach it. When the wall you are running toward reinforces that fast, the intelligent exit is the bid you are standing on. One entry, one win, thirteen refusals, zero damage: the whole day's method in one line. Flat again; only an exceptional fresh setup gets a second trade before the bell.",
       "commentator": "GOOOOOOAL!!! THEO SCORES!!! The number nine takes the shot at the NEAR post - exactly where the manager called it - because the far post grew a SECOND keeper on the way in! One-nil! Thirteen refusals, one clinical strike, clean sheet intact! The bench erupts, the home end goes WILD! That, ladies and gentlemen, is patience football - SIX HOURS of chess and ONE perfect punch!"
+    },
+    {
+      "id": "exit-1749370f2459",
+      "time": "14:02",
+      "kind": "goal",
+      "analyst": "Trade closed for +1.05R. The thesis played out; the exit followed the plan rather than emotion.",
+      "commentator": "GOOOAL! The long run finds the net - +1.05R on the board! Textbook move from the training ground."
+    },
+    {
+      "id": "2026-06-11-bias-1402",
+      "time": "14:02",
+      "kind": "bias",
+      "analyst": "Post-trade consolidation, and the exit already looks right: one more brief poke higher, then back below the exit print, with the fortress that ended the run still adding size. Theo is flat, the day's gain protected, and the bar for a second trade is deliberately high - a textbook retest of the flipped level that holds with rebuilt volume, nothing less. The final hour approaches with the score one-nil.",
+      "commentator": "After the goal, the away side pushed once - turned back AGAIN below where our striker took his shot. Smart finishing confirmed! One-nil, defense reorganizing on the won ground, and the manager rotates to protect the lead. The final hour of this match starts soon - and you can bet both benches have plans. Stay with us!"
     }
   ]
 }
