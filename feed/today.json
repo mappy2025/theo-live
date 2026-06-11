@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T09:15:12-04:00",
+  "updatedAt": "2026-06-11T09:15:38-04:00",
   "status": "pre-open",
   "catalysts": {
     "today": [],
@@ -10,9 +10,9 @@
   },
   "bias": {
     "state": "pre-open",
-    "analyst": "Pre-market: a small gap up into a normal regime; the broad-market tide is falling. Theo commits to nothing until the first 30 minutes classify the day.",
-    "commentator": "Team news: a small gap up on the schedule, a normal regime expected, away support falling. Lineups locked at 9:30 - the first half hour decides the game plan.",
-    "updatedAt": "2026-06-11T09:15:12-04:00"
+    "analyst": "Order-flow update: the resting book brackets the open - the lower shelf that survived yesterday'[level]-hour attack has been rebuilt even bigger, while a heavy supply ceiling is stacked a few points overhead. Between them the book is thin. Expect price to be pulled toward one magnet or the other after the bell; the plan is unchanged - let the first half hour pick the direction, then trade with it, targeting the front of the far wall, never through it.",
+    "commentator": "Team news from the tunnel: yesterday's heroic back line has been REINFORCED overnight - the defense is bigger than ever. But the away side has parked three buses a few points overhead. Wide open midfield in between! Kickoff in fifteen - whoever wins the first half hour gets a clear run at the opposing wall. Theo's orders: ride the winning side, shoot BEFORE the wall, never into the keeper's gloves.",
+    "updatedAt": "2026-06-11T09:15:38-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
