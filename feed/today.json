@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T14:51:15-04:00",
+  "updatedAt": "2026-06-11T15:05:02-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -331,6 +331,13 @@
       "kind": "advisory",
       "analyst": "The day book is meaningfully positive (+3.38R). Discipline note: protect a good day - the lab keeps observing, but gives nothing back cheaply.",
       "commentator": "The lab side leads +3.38R and the manager is shouting from the touchline: keep the shape, protect the lead, no silly fouls!"
+    },
+    {
+      "id": "2026-06-11-bias-1448",
+      "time": "14:48",
+      "kind": "bias",
+      "analyst": "Map change at the top: the great fortress that capped the whole afternoon just pulled more than half its size, relocating its weight two levels higher - the same yielding-ground pattern that preceded the day's big breakout this morning. The road to the old wall is suddenly much lighter. The tape, however, remains dry, and dry grinds have faked four times today. If the closing crowd arrives with real participation through the near shelf, a final push becomes a legitimate candidate; without it, the lab keeps its winnings and its patience.",
+      "commentator": "WAIT A MINUTE - the away side's main bus is REVERSING up the pitch! Half the wall that's blocked us all afternoon just relocated toward their goal line! The corridor to the old position is wide open... but listen to that stadium - still too quiet for a final assault. If the closing-minutes crowd ROARS through the near line, our number nine might get one more run. Two-nil, twelve minutes of chess left in this masterclass."
     }
   ]
 }
