@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T14:35:01-04:00",
+  "updatedAt": "2026-06-11T14:38:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -317,6 +317,20 @@
       "kind": "bias",
       "analyst": "Second trade closed for more than two risk-units - the day stands at three-point-four. The exit logic repeated the first: price pushed into the target zone on the thinnest tape of the move while the shelf ahead fattened; strength without fuel under growing supply is borrowed time. Two entries, two systematic exits, thirteen refusals, the stop never touched on either. The lab banks the day and raises the bar for any third trade to 'exceptional only' - protecting a great day is a skill the playbook practices deliberately.",
       "commentator": "TWO-NIL!!! THE NUMBER NINE DOES IT AGAIN!!! Same move, same near-post finish - the keeper never SAW it! Thirteen refusals, two clinical strikes, not a single shot conceded all match! The away bus at the top of the box never even got tested - our striker simply refused to play their game. The crowd is singing, the bench is dancing - THIS, friends, is what six hours of patience buys you!"
+    },
+    {
+      "id": "exit-734d0c68d5a6",
+      "time": "14:22",
+      "kind": "goal",
+      "analyst": "Trade closed for +2.33R. The thesis played out; the exit followed the plan rather than emotion.",
+      "commentator": "GOOOAL! The long run finds the net - +2.33R on the board! Textbook move from the training ground."
+    },
+    {
+      "id": "2026-06-11-protect",
+      "time": "14:22",
+      "kind": "advisory",
+      "analyst": "The day book is meaningfully positive (+3.38R). Discipline note: protect a good day - the lab keeps observing, but gives nothing back cheaply.",
+      "commentator": "The lab side leads +3.38R and the manager is shouting from the touchline: keep the shape, protect the lead, no silly fouls!"
     }
   ]
 }
