@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T09:25:58-04:00",
-  "status": "pre-open",
+  "updatedAt": "2026-06-11T09:30:01-04:00",
+  "status": "live",
   "catalysts": {
     "today": [],
     "next": [],
@@ -23,6 +23,13 @@
       "kind": "system",
       "analyst": "Theo Live is now public. From here on, session events appear in this feed with a delay - wins, losses, and the days we sit on our hands.",
       "commentator": "Welcome to the grounds! The gates are open for the first time. Pre-season record is on the board - including the losses. We hide nothing here, folks."
+    },
+    {
+      "id": "2026-06-11-kickoff",
+      "time": "09:30",
+      "kind": "kickoff",
+      "analyst": "Market open. Theo watches the first 30 minutes before committing - the [indicator] decides which playbook is valid today.",
+      "commentator": "KICKOFF! The bell rings and we're underway. Theo holds its shape for the first half hour - no wild lunges before the game shows its pattern."
     }
   ]
 }
