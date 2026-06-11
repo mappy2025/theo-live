@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T14:18:33-04:00",
+  "updatedAt": "2026-06-11T14:27:02-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -289,6 +289,20 @@
       "kind": "bias",
       "analyst": "Post-trade consolidation, and the exit already looks right: one more brief poke higher, then back below the exit print, with the fortress that ended the run still adding size. Theo is flat, the day's gain protected, and the bar for a second trade is deliberately high - a textbook retest of the flipped level that holds with rebuilt volume, nothing less. The final hour approaches with the score one-nil.",
       "commentator": "After the goal, the away side pushed once - turned back AGAIN below where our striker took his shot. Smart finishing confirmed! One-nil, defense reorganizing on the won ground, and the manager rotates to protect the lead. The final hour of this match starts soon - and you can bet both benches have plans. Stay with us!"
+    },
+    {
+      "id": "2026-06-11-bias-1408",
+      "time": "14:08",
+      "kind": "bias",
+      "analyst": "Second position of the day, on the exact condition Theo pre-committed to in public: a textbook retest of the flipped breakout level, the undercut bought back on the spot, participation rebuilt above the gate, and the overheated momentum reading reset by time rather than price. Risk is tighter than the first leg - the structure offers a closer invalidation - and the banked first-leg profit covers the full risk: the day cannot go red from here. Target the front of the prior high; the fortress above still rules the map.",
+      "commentator": "THE NUMBER NINE GOES AGAIN! The away side tried to retake the broken line - and our crowd THREW THEM BACK on the spot! Fresh legs, fresh noise, and the manager points forward: same play, NEAR post, tighter leash. And here's the beauty, folks - the first goal already banked means this second run is played on HOUSE MONEY. Two-nil hunting!"
+    },
+    {
+      "id": "atk-734d0c68d5a6",
+      "time": "14:12",
+      "kind": "attack",
+      "analyst": "Trade opened: a with-trend continuation, long. Risk is predefined at one unit; the exit plan exists before the entry ever does.",
+      "commentator": "Here comes the move! Theo commits long with a with-trend continuation. Defence organised first, then the forward run - always in that order."
     }
   ]
 }
