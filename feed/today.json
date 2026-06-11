@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T14:27:02-04:00",
+  "updatedAt": "2026-06-11T14:32:02-04:00",
   "status": "live",
   "catalysts": {
     "today": [],
@@ -303,6 +303,13 @@
       "kind": "attack",
       "analyst": "Trade opened: a with-trend continuation, long. Risk is predefined at one unit; the exit plan exists before the entry ever does.",
       "commentator": "Here comes the move! Theo commits long with a with-trend continuation. Defence organised first, then the forward run - always in that order."
+    },
+    {
+      "id": "2026-06-11-bias-1413",
+      "time": "14:13",
+      "kind": "bias",
+      "analyst": "The second position works and its thesis is already structurally validated - the pullback low printed on the flipped level to the exact cent before bouncing. Defense keeps growing beneath the position. The one watch-item is fuel: participation dried up after entry, so the push to target needs the tape to re-engage - and the final hour, which usually brings it, is close. Stop firm, targets staged, fronts of walls only.",
+      "commentator": "Textbook from the number nine - the away side's counter died EXACTLY on the line we broke, to the CENTIMETER, and our crowd surged back behind him! More defenders flooding in beneath the run. The legs are a touch heavy mid-pitch, but the final hour - when the whole stadium wakes up - is minutes away. Two-nil is ON, folks!"
     }
   ]
 }
