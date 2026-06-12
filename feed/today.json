@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:37:08-04:00",
+  "updatedAt": "2026-06-12T14:39:41-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "neutral",
-    "analyst": "Drifting sideways-to-lower in the post-trapdoor chop, volume drying up to the day's quiet end of the range. No structure worth capital: the floor zone is unproven since the giant order vanished, and the ceiling sits untested overhead. Final-hour flows haven't arrived yet. Watching, not trading.",
-    "commentator": "Slow passing in midfield, the tempo's dropped right off - both sides waiting for the final-hour surge. Our bench stays seated, points protected, eyes open!",
-    "updatedAt": "2026-06-12T14:37:08-04:00"
+    "analyst": "Same dry chop, one quiet change: buyers are stacking a modest shelf just beneath price, and the dips keep holding at slightly higher marks. The higher-low sequence builds - but without volume it stays a sketch, not a signal. The ceiling crew thickened their line again too. Coiled, both sides, waiting for the final-hour trigger.",
+    "commentator": "Still the chess match! The home side quietly moves a few more men behind the ball, the away side adds to their wall upfield - everyone's set up for one last push, folks. Who blinks first?",
+    "updatedAt": "2026-06-12T14:39:41-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -221,6 +221,13 @@
       "kind": "bias",
       "analyst": "The trap snapped shut - on whoever chased. The boundary defense that 'evaporated' let price poke through, found no real buyers, and the sellers re-stacked behind the move as price fell right back. Our overheated-engines rule kept us out of exactly that chase for the third time today. Now the real examination: price is approaching the giant buyer fortress beneath. If it absorbs the selling on contact, the higher floor is real and a fourth attack on the boundary can be bought. If that fortress gets pulled as price arrives, the whole afternoon floor was a billboard - and we want no part of any of it.",
       "commentator": "OFFSIDE TRAP! The defenders stepped aside, let the striker run through alone - and the flag goes up, possession lost, everyone back! Three times today the referee's red light kept our side out of THAT exact trap, folks. Now the ball rolls toward the thirty-thousand fortress... THIS is the tackle that tells us if the home support is real or painted on. Every eye in the stadium on the challenge!"
+    },
+    {
+      "id": "2026-06-12-bias-1424",
+      "time": "14:24",
+      "kind": "bias",
+      "analyst": "The fortress passed its exam in real time: under direct attack it absorbed the selling AND grew by a sixth - the single strongest signal in the playbook, because defenders who mean it add men during the battle, not before it. Position taken at full commitment this time: every checklist item passed - location at the level, fuel above average, momentum mid-range, the floor proving itself on contact. The ceiling overhead is proven too, so the exit is pre-sold at its front door. Buy the proven floor, sell to the proven ceiling, no greed in between.",
+      "commentator": "THE TACKLE COMES IN - AND THE FORTRESS HOLDS! Thirty thousand became thirty-four and a half DURING the challenge! They're not painted on, folks, they're REAL! And there goes our manager - FULL squad committed this time, every box on the clipboard ticked! The plan is simple as Sunday league: defend from the floor, strike to the ceiling's front porch, and take the points before the giants upstairs wake up!"
     }
   ]
 }
