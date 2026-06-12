@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:45:38-04:00",
+  "updatedAt": "2026-06-12T14:48:45-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "leaning-bullish",
-    "analyst": "Small fade off the push, structure intact: the rising floor keeps thickening beneath, the ceiling crew keeps adding above, and price breathes in between on modest volume. A coiled range with both sides committed - the final forty-five minutes usually picks a winner. Rules unchanged: fuel plus the rising floor holding, or no participation.",
-    "commentator": "The pushes keep coming and the walls keep answering - it's a proper arm-wrestle in the final third! Forty-five minutes on the clock, every supporter on their feet. One side's about to blink, folks!",
-    "updatedAt": "2026-06-12T14:45:38-04:00"
+    "state": "neutral",
+    "analyst": "The rising-floor story is wobbling: price slipped back under its sequence of higher marks, and the buyer shelf that had been thickening was quietly cut by two-thirds. When support gets pulled rather than defended, the message is caution. The long setup is invalidating itself before ever qualifying - which is the system working as intended. The day's central magnet below is now the floor that matters.",
+    "commentator": "Hold on - the home side's pushed too far up and the back line is thinning out! That promising attack just lost its shape, and the gaffer waves everyone back into position. No chasing a broken move, folks. The big test is now at the halfway line below.",
+    "updatedAt": "2026-06-12T14:48:45-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -242,6 +242,13 @@
       "kind": "bias",
       "analyst": "A hard and humbling sequence: the fortress that grew during the battle - the strongest signal the playbook recognizes - vanished moments after the position went on, and price flushed through the stop before bouncing right back. The loss is recorded at the stop, no excuses, even though price recovered seconds later. The lesson is sharp: on a day this manipulated, even the best absorption signal can be one more layer of theater. The session stays profitable on the earlier banked trade. Respect for the tape goes up another notch; appetite for hero plays goes down to zero.",
       "commentator": "OH NO - THE FORTRESS WAS A TRAPDOOR! Thirty-four thousand defenders evaporate the SECOND our full squad steps forward, the floor gives way, and the referee's whistle takes us off at the stop! And then - of course - the pitch repairs itself immediately! That's the cruelest trick this match has pulled yet, folks. The gaffer writes it in the book exactly as it happened: a clean loss, taken like a professional. Points from the first half still in the bag."
+    },
+    {
+      "id": "exit-adab4e8a58c9",
+      "time": "14:33",
+      "kind": "conceded",
+      "analyst": "Trade stopped for -1.00R. A planned loss: the stop did its job, the damage is capped at the predefined risk.",
+      "commentator": "Conceded. The keeper had no chance on that one - -1.00R. But look: the defence held the line exactly where the manager drew it. Small goal, no collapse."
     }
   ]
 }
