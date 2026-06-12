@@ -123,6 +123,28 @@ function ScoreboardCard({ score }: { score: Scoreboard }) {
   )
 }
 
+function WatchingToday({ today, voice }: { today: TodayFeed; voice: Voice }) {
+  const brief = today.brief
+  if (!brief) return null
+  return (
+    <section className="card">
+      <h2>What Theo is watching today</h2>
+      <p>{brief[voice]}</p>
+      {brief.watchingFor && brief.watchingFor.length > 0 && (
+        <ul className="watching">
+          {brief.watchingFor.map((w, i) => (
+            <li key={i}>{w}</li>
+          ))}
+        </ul>
+      )}
+      <p className="muted small">
+        A qualitative game plan, refreshed through the morning — no prices, no levels,
+        no signals. Educational diary only.
+      </p>
+    </section>
+  )
+}
+
 function Bias({ today, voice }: { today: TodayFeed; voice: Voice }) {
   return (
     <section className="card">
@@ -360,6 +382,7 @@ export default function App() {
           </section>
         )}
         {score && <ScoreboardCard score={score} />}
+        {today && <WatchingToday today={today} voice={voice} />}
         {today && <Bias today={today} voice={voice} />}
         {today && <Feed today={today} voice={voice} />}
         <History history={history} voice={voice} />

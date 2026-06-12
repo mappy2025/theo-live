@@ -150,3 +150,7 @@ footer { margin-top: 28px; color: var(--muted); font-size: 12.5px; text-align: c
   h1.brand { font-size: 24px; }
   .score-cell .v { font-size: 20px; }
 }
+
+/* "What Theo is watching today" card */
+.watching { margin: 8px 0 4px; padding-left: 20px; }
+.watching li { margin-bottom: 5px; line-height: 1.5; }
