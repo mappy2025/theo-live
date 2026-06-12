@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T13:43:01-04:00",
+  "updatedAt": "2026-06-12T13:44:23-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "bullish",
-    "analyst": "The position is working - up well over a full unit of risk within minutes of entry. Management followed the written rules, not emotion: the protective stop moves UP to lock in a profit no matter what happens next, because three warning lights came on together - volume fading, a second rejection just overhead, and the big seller wall above visibly reinforcing before contact. The target stands for one more attack on that wall. The second half of the position stays on the bench: the bounce never brought the fuel the rulebook demands.",
-    "commentator": "GOAL-BOUND! The new man is through on goal barely ten minutes after coming on! But the gaffer's already shouting from the touchline - everyone BEHIND the ball, we leave this pitch with points no matter what! The wall upfield is calling for reinforcements - one more charge at it, and if it holds, we take what we've earned and shake hands. Smart football, folks. This is how you recover from a morning like that one.",
-    "updatedAt": "2026-06-12T13:34:27-04:00"
+    "state": "leaning-bullish",
+    "analyst": "Banked. The position closed for well over two units of risk because the exit trigger written ten minutes earlier fired: the seller wall at the target kept reinforcing while the attacking volume faded - you sell to the crowd standing in front of you, not to the crowd you hope shows up. A pattern argued for holding longer; the pre-written rule outranked it. That is the entire lesson of this session in one trade: location, pre-committed exits, and no improvisation. The book flips meaningfully toward recovery on the day.",
+    "commentator": "HE TAKES THE POINTS! No crossbar drama, no extra-time gamble - the striker sees the wall calling for MORE defenders, hears the whistle in his head, and walks it into the bank! Two-and-a-third units of risk, ladies and gentlemen, ten minutes after the morning's critics wrote him off! The manager's clipboard wins over the crowd's roar. THAT is championship discipline!",
+    "updatedAt": "2026-06-12T13:44:23-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
