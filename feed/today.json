@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:19:00-04:00",
+  "updatedAt": "2026-06-12T14:23:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -193,6 +193,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1404",
+      "time": "14:04",
+      "kind": "bias",
+      "analyst": "A huge buyer just planted a flag: the largest bid of the entire session appeared directly beneath price - bigger even than the famous morning floor that started the recovery. Price is coiling upward beneath the day's upper boundary in higher pushes, with that giant floor backing it. Two readings compete: real accumulation fueling a push through the boundary, or a billboard propping price up while bigger players sell above. As always, the truth only shows at contact. The plans are written for both.",
+      "commentator": "WHO ORDERED THE WALL?! A thirty-thousand-share fortress just landed right behind our attacking line - the biggest single statement of the match! The away side's boundary defense is rebuilding too - this is shaping into a proper final-third siege, folks! Higher push, higher push, higher push - three in a row! The crowd can feel something coming. Both managers have their plays chalked. Contact decides everything!"
     }
   ]
 }
