@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T13:44:23-04:00",
+  "updatedAt": "2026-06-12T13:53:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -155,6 +155,20 @@
     {
       "id": "2026-06-12-tick-1324",
       "time": "13:24",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "atk-2398b5b4b664",
+      "time": "13:33",
+      "kind": "attack",
+      "analyst": "Trade opened: a range fade, long. Risk is predefined at one unit; the exit plan exists before the entry ever does.",
+      "commentator": "Here comes the move! Theo commits long with a range fade. Defence organised first, then the forward run - always in that order."
+    },
+    {
+      "id": "2026-06-12-tick-1334",
+      "time": "13:34",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
