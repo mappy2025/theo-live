@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:42:01-04:00",
+  "updatedAt": "2026-06-12T15:42:53-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "neutral",
-    "analyst": "Into the closing auction window flat and content: price drifts in the middle of the late band, the ceiling stands undefeated, the floor never retested. Observation mode through the bell, then the evening review takes over - the most important work of the day happens after the close.",
-    "commentator": "Stoppage time, folks! The ball rolls around midfield, both benches already thinking about the film session. Our side walks off with points, pride, and a notebook full of homework!",
-    "updatedAt": "2026-06-12T15:39:35-04:00"
+    "state": "leaning-bullish",
+    "analyst": "The closing auction brings out the giants: a buyer line nearly sixteen thousand strong just landed directly beneath price at the wall's doorstep, while the undefeated ceiling answered by growing past eight thousand. Both armies are all-in one row apart for the final minutes. We watch from the stands - the day's trading is done - but this collision will write tomorrow's opening story.",
+    "commentator": "WOULD YOU LOOK AT THIS, FOLKS! Sixteen thousand home supporters flood the box - and the away side answers with EIGHT thousand on the wall! Both armies ALL-IN, one row apart, in the dying minutes! We've got the best seat in the house and no skin left in the game - PURE THEATER!",
+    "updatedAt": "2026-06-12T15:42:53-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -375,6 +375,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1527",
+      "time": "15:27",
+      "kind": "bias",
+      "analyst": "The churn ceiling broke - the fifth approach took out the intraday line that had rejected three pushes, and price now presses directly against the boundary defense with momentum legal and fuel at exactly average. Contact with the day's deciding wall is imminent, one last time, with the closing auction as the backdrop. The plan is written; the clock adds one amendment - a late break gets a shorter target or no trade at all.",
+      "commentator": "FIFTH ASSAULT - and this time they've broken the midfield line that stopped the last three! They're at the boundary wall NOW, folks, the closing surge at their backs! The manager taps the board: the play is written, but the ref's watch is ticking - score quickly or we shake hands!"
     }
   ]
 }
