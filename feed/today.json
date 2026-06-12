@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:39:01-04:00",
+  "updatedAt": "2026-06-12T15:39:35-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "neutral",
-    "analyst": "The break window is closing with price drifting in the middle of the late-day band - no contact, no violence, no qualifying setup. From here the job is simple: stand flat through the closing scramble, let the auction do whatever it does, and take the day's results into the evening review intact.",
-    "commentator": "Window's closing, folks - the ball circles midfield as the clock runs down. No last-second heroics needed when the points are already banked. Stoppage time comes next - everyone stay professional!",
-    "updatedAt": "2026-06-12T15:36:37-04:00"
+    "analyst": "Into the closing auction window flat and content: price drifts in the middle of the late band, the ceiling stands undefeated, the floor never retested. Observation mode through the bell, then the evening review takes over - the most important work of the day happens after the close.",
+    "commentator": "Stoppage time, folks! The ball rolls around midfield, both benches already thinking about the film session. Our side walks off with points, pride, and a notebook full of homework!",
+    "updatedAt": "2026-06-12T15:39:35-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
