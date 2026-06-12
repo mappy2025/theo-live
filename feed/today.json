@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:51:01-04:00",
+  "updatedAt": "2026-06-12T15:51:42-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "neutral",
-    "analyst": "The sixth assault failed like the five before it - the poke above the crumbled wall found no follow-through, and within minutes BOTH giants withdrew: the buyer army vanished to scraps and the ceiling re-formed with its big advertisement growing back upstairs. A textbook auction head-fake, and the cleanest possible vindication of watching it from the stands. The ceiling survived the entire session. The range is the day's final word.",
-    "commentator": "SIX ASSAULTS, SIX REJECTIONS - WHAT A DEFENSIVE PERFORMANCE! The wall crumbled, the crowd roared, the striker poked it over the line - NO GOAL says the referee, and suddenly both armies have LEFT THE STADIUM! The fortress holds the full ninety, folks. Final whistle in ten minutes!",
-    "updatedAt": "2026-06-12T15:48:45-04:00"
+    "analyst": "Settling quietly into the close - the second bar after the failed poke confirmed the boundary held, and price drifts in the upper-middle of the range. Eight minutes to the bell. The session ends where it spent its afternoon: under a ceiling that would not break, above a floor that kept getting bought. Review begins at the whistle.",
+    "commentator": "The clock winds down, the ball rolls in the home half, and both sets of fans are already filing toward the exits. A hard-fought day, a win on points, and a film session the gaffer cannot WAIT to run. Final whistle next, folks!",
+    "updatedAt": "2026-06-12T15:51:42-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -396,6 +396,13 @@
       "kind": "bias",
       "analyst": "The fifth assault is fading without ever touching the wall - the reinforced defense never even had to make the tackle. The window for a manageable break closes within minutes, and with it the day's trading. The session ends as it ran: a fortress ceiling that never broke, a banked win in the middle, and two honest stop-outs teaching tonight's lessons.",
       "commentator": "The fifth charge dies in the box - the wall never even flinched! Minutes left in the window now, folks. Whatever the closing scramble brings, our side's walking off with points and a notebook FULL of lessons!"
+    },
+    {
+      "id": "2026-06-12-tick-1536",
+      "time": "15:36",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
     }
   ]
 }
