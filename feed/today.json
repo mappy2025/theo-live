@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T13:24:43-04:00",
+  "updatedAt": "2026-06-12T13:33:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -141,6 +141,13 @@
     {
       "id": "2026-06-12-tick-1304",
       "time": "13:04",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "2026-06-12-tick-1314",
+      "time": "13:14",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
