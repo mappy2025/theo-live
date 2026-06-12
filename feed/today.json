@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:00:44-04:00",
+  "updatedAt": "2026-06-12T15:03:57-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "neutral",
-    "analyst": "The true final hour opens with the first above-average volume reading in half an hour - fuel trickling back exactly when the calendar says it should. Price pushes off the floor into the seller line overhead. One reading is a trickle, not a trend: the fuel must sustain across consecutive checks and carry price through the overhead line before any play qualifies. The framework is armed; the proof is pending.",
-    "commentator": "The final hour kicks off and the crowd's BACK, folks - first real energy in the stands since the trapdoor scandal! The home side pushes up immediately, testing that line of defenders! One surge doesn't win a match - but the legs look fresher. Eyes wide open now!",
-    "updatedAt": "2026-06-12T15:00:45-04:00"
+    "state": "leaning-bullish",
+    "analyst": "Second consecutive above-average fuel reading and price held its floor, pushing back through the middle of the range. The conditions are converging - but the entry is not here in no-man's land: the reward from the middle to the front of the boundary defense is below the minimum the rulebook accepts. The trade, if it comes, is AT the boundary: a genuine break that holds on real volume opens the road to the next defensive layers. The boundary wall just thickened again in anticipation.",
+    "commentator": "Two surges in a row now - the legs ARE fresher! But the gaffer waves down the midfield shot: not from there, son, the angle's all wrong! Get to the boundary line with the ball and THEN we talk. The away side sees it too - they're piling men onto that line as we speak!",
+    "updatedAt": "2026-06-12T15:03:57-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -284,6 +284,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1448",
+      "time": "14:48",
+      "kind": "bias",
+      "analyst": "The rising-floor story is wobbling: price slipped back under its sequence of higher marks, and the buyer shelf that had been thickening was quietly cut by two-thirds. When support gets pulled rather than defended, the message is caution. The long setup is invalidating itself before ever qualifying - which is the system working as intended. The day's central magnet below is now the floor that matters.",
+      "commentator": "Hold on - the home side's pushed too far up and the back line is thinning out! That promising attack just lost its shape, and the gaffer waves everyone back into position. No chasing a broken move, folks. The big test is now at the halfway line below."
     }
   ]
 }
