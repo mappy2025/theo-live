@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:57:43-04:00",
+  "updatedAt": "2026-06-12T15:00:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -270,6 +270,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1443",
+      "time": "14:43",
+      "kind": "bias",
+      "analyst": "The complex is lifting together into the final hour: the rookie stock has recovered strongly from its midday slide and grinds toward its biggest overhead seller cluster, while our stock printed its third higher low and pushed back through the middle of the range. The catch remains the same - the advance is running on the thinnest volume of the day. Persistent, directional, but unfueled. The checklist still wants fuel before capital.",
+      "commentator": "Both teams from the same stable are attacking now! The new kid storms back from two goals down, our side strings together a third straight higher push - the stadium feels a finale brewing! But listen - the engines are at quarter throttle. The manager wants to see REAL pace before anyone commits. Twenty minutes of patience left in the tank!"
     }
   ]
 }
