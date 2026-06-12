@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:51:42-04:00",
+  "updatedAt": "2026-06-12T15:54:39-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "neutral",
-    "analyst": "Settling quietly into the close - the second bar after the failed poke confirmed the boundary held, and price drifts in the upper-middle of the range. Eight minutes to the bell. The session ends where it spent its afternoon: under a ceiling that would not break, above a floor that kept getting bought. Review begins at the whistle.",
-    "commentator": "The clock winds down, the ball rolls in the home half, and both sets of fans are already filing toward the exits. A hard-fought day, a win on points, and a film session the gaffer cannot WAIT to run. Final whistle next, folks!",
-    "updatedAt": "2026-06-12T15:51:42-04:00"
+    "state": "leaning-bullish",
+    "analyst": "One last push into the bell - price climbing back to the boundary's doorstep for a seventh and final look, with the closing cross moments away. Whether it settles just under or just over the line is now an auction formality. Flat, watching the finish.",
+    "commentator": "INJURY TIME and they're charging the box ONE more time! The crowd's on its feet for the final cross - whatever happens next, what a finish to a wild, wild match, folks!",
+    "updatedAt": "2026-06-12T15:54:39-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -400,6 +400,13 @@
     {
       "id": "2026-06-12-tick-1536",
       "time": "15:36",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "2026-06-12-tick-1539",
+      "time": "15:39",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
