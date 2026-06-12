@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T12:43:52-04:00",
+  "updatedAt": "2026-06-12T12:53:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -116,6 +116,13 @@
       "kind": "bias",
       "analyst": "The breakdown failed - again. Sellers pushed through the lower door, buyers slammed it shut within minutes, and the day's biggest support order grew even larger without ever being touched. The rookie stock has stopped falling too, and the orders waiting to buy it have roughly doubled. When the floor keeps getting reinforced and every push down gets bought back, the tone shifts from fear to accumulation.",
       "commentator": "GOAL-MOUTH SCRAMBLE AND THE DEFENSE CLEARS IT OFF THE LINE! The away side thought they'd broken through - ten minutes later they're back in their own half! And listen to this: the home fans just doubled the size of the wall behind the goal. The new kid on the pitch has stopped conceding too. Momentum check: the crowd senses it!"
+    },
+    {
+      "id": "2026-06-12-tick-1234",
+      "time": "12:34",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
     }
   ]
 }
