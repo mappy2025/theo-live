@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T13:53:44-04:00",
+  "updatedAt": "2026-06-12T14:03:02-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -172,6 +172,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1344",
+      "time": "13:44",
+      "kind": "bias",
+      "analyst": "Banked. The position closed for well over two units of risk because the exit trigger written ten minutes earlier fired: the seller wall at the target kept reinforcing while the attacking volume faded - you sell to the crowd standing in front of you, not to the crowd you hope shows up. A pattern argued for holding longer; the pre-written rule outranked it. That is the entire lesson of this session in one trade: location, pre-committed exits, and no improvisation. The book flips meaningfully toward recovery on the day.",
+      "commentator": "HE TAKES THE POINTS! No crossbar drama, no extra-time gamble - the striker sees the wall calling for MORE defenders, hears the whistle in his head, and walks it into the bank! Two-and-a-third units of risk, ladies and gentlemen, ten minutes after the morning's critics wrote him off! The manager's clipboard wins over the crowd's roar. THAT is championship discipline!"
     }
   ]
 }
