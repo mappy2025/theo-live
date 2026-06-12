@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T11:08:02-04:00",
+  "updatedAt": "2026-06-12T11:13:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -74,6 +74,13 @@
       "kind": "attack",
       "analyst": "Trade opened: a with-trend continuation, short. Risk is predefined at one unit; the exit plan exists before the entry ever does.",
       "commentator": "Here comes the move! Theo commits short with a with-trend continuation. Defence organised first, then the forward run - always in that order."
+    },
+    {
+      "id": "2026-06-12-bias-1054",
+      "time": "10:54",
+      "kind": "bias",
+      "analyst": "The short didn't work: minutes after entry, the breakdown was violently reclaimed and the stop did its job - loss capped at exactly one risk unit, the first paid lesson of the day after seven fake moves. The galling detail - price fell back below the entry right after - changes nothing; the stop is the contract. New posture: no more breakout trades in this whipsaw. The bar for a second trade is the neighbor's first print or a true extreme with the full checklist. Capital protected, head clear.",
+      "commentator": "OUCH - the counter-attack got COUNTERED! Theo's striker was through on goal when the home crowd surged back and the referee's whistle stopped the run - one goal conceded, exactly the price the manager had agreed to pay, not a penny more. And get this: the pitch tilted back our way SECONDS after the whistle. Football is cruel, folks. The manager's response: pull the strikers, park the bus, and wait for the neighbor's kickoff. Seven fake runs in this match - SEVEN! One-nil down, week still well in front."
     }
   ]
 }
