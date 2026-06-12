@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T13:04:02-04:00",
+  "updatedAt": "2026-06-12T13:13:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -130,6 +130,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1254",
+      "time": "12:54",
+      "kind": "bias",
+      "analyst": "The retest we wanted came up fifteen cents shy of our zone and the move left without us - that's the cost of insisting on the cheap entry, and we pay it without complaint. The full recovery has now carried price back to the day's central magnet, where the largest seller positions of the entire session are stacked in three layers. This is where the morning's patient buyers get to cash out. Whether those seller walls get eaten or hold on contact decides the afternoon.",
+      "commentator": "FROM ONE GOALMOUTH TO THE OTHER! The comeback is complete - but our manager's cheap ball never came, the team bus watched this one from the parking lot! No regrets, says the gaffer: we don't buy tops. Now the away side's three biggest defensive walls stand between this rally and open field. Contact is coming, ladies and gentlemen. Watch what happens when they collide."
     }
   ]
 }
