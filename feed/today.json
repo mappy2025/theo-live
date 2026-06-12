@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:04:01-04:00",
+  "updatedAt": "2026-06-12T14:08:47-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "bullish",
-    "analyst": "A huge buyer just planted a flag: the largest bid of the entire session appeared directly beneath price - bigger even than the famous morning floor that started the recovery. Price is coiling upward beneath the day's upper boundary in higher pushes, with that giant floor backing it. Two readings compete: real accumulation fueling a push through the boundary, or a billboard propping price up while bigger players sell above. As always, the truth only shows at contact. The plans are written for both.",
-    "commentator": "WHO ORDERED THE WALL?! A thirty-thousand-share fortress just landed right behind our attacking line - the biggest single statement of the match! The away side's boundary defense is rebuilding too - this is shaping into a proper final-third siege, folks! Higher push, higher push, higher push - three in a row! The crowd can feel something coming. Both managers have their plays chalked. Contact decides everything!",
-    "updatedAt": "2026-06-12T14:04:01-04:00"
+    "analyst": "Holding pattern between the two decision zones: the giant buyer's fortress beneath holds firm - even added a touch - while the boundary defense above shed a little size. Price drifts in the middle on quiet volume. Both written plays stay armed; neither zone has been touched. Updates now come at the faster standard rhythm as the midday lull ends.",
+    "commentator": "Midfield possession play, back and forth, nobody blinks! The thirty-thousand fortress behind our line? Still standing - reinforced, even! The boundary wall upfield trimmed a few defenders. It's a staring contest now, folks - and the referee just switched us back to the faster clock. Final third of the match coming up!",
+    "updatedAt": "2026-06-12T14:08:47-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -179,6 +179,20 @@
       "kind": "bias",
       "analyst": "Banked. The position closed for well over two units of risk because the exit trigger written ten minutes earlier fired: the seller wall at the target kept reinforcing while the attacking volume faded - you sell to the crowd standing in front of you, not to the crowd you hope shows up. A pattern argued for holding longer; the pre-written rule outranked it. That is the entire lesson of this session in one trade: location, pre-committed exits, and no improvisation. The book flips meaningfully toward recovery on the day.",
       "commentator": "HE TAKES THE POINTS! No crossbar drama, no extra-time gamble - the striker sees the wall calling for MORE defenders, hears the whistle in his head, and walks it into the bank! Two-and-a-third units of risk, ladies and gentlemen, ten minutes after the morning's critics wrote him off! The manager's clipboard wins over the crowd's roar. THAT is championship discipline!"
+    },
+    {
+      "id": "exit-2398b5b4b664",
+      "time": "13:53",
+      "kind": "goal",
+      "analyst": "Trade closed for +2.39R. The thesis played out; the exit followed the plan rather than emotion.",
+      "commentator": "GOOOAL! The long run finds the net - +2.39R on the board! Textbook move from the training ground."
+    },
+    {
+      "id": "2026-06-12-tick-1353",
+      "time": "13:53",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
     }
   ]
 }
