@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:23:01-04:00",
+  "updatedAt": "2026-06-12T14:24:17-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "leaning-bullish",
-    "analyst": "The trap snapped shut - on whoever chased. The boundary defense that 'evaporated' let price poke through, found no real buyers, and the sellers re-stacked behind the move as price fell right back. Our overheated-engines rule kept us out of exactly that chase for the third time today. Now the real examination: price is approaching the giant buyer fortress beneath. If it absorbs the selling on contact, the higher floor is real and a fourth attack on the boundary can be bought. If that fortress gets pulled as price arrives, the whole afternoon floor was a billboard - and we want no part of any of it.",
-    "commentator": "OFFSIDE TRAP! The defenders stepped aside, let the striker run through alone - and the flag goes up, possession lost, everyone back! Three times today the referee's red light kept our side out of THAT exact trap, folks. Now the ball rolls toward the thirty-thousand fortress... THIS is the tackle that tells us if the home support is real or painted on. Every eye in the stadium on the challenge!",
-    "updatedAt": "2026-06-12T14:19:00-04:00"
+    "state": "bullish",
+    "analyst": "The fortress passed its exam in real time: under direct attack it absorbed the selling AND grew by a sixth - the single strongest signal in the playbook, because defenders who mean it add men during the battle, not before it. Position taken at full commitment this time: every checklist item passed - location at the level, fuel above average, momentum mid-range, the floor proving itself on contact. The ceiling overhead is proven too, so the exit is pre-sold at its front door. Buy the proven floor, sell to the proven ceiling, no greed in between.",
+    "commentator": "THE TACKLE COMES IN - AND THE FORTRESS HOLDS! Thirty thousand became thirty-four and a half DURING the challenge! They're not painted on, folks, they're REAL! And there goes our manager - FULL squad committed this time, every box on the clipboard ticked! The plan is simple as Sunday league: defend from the floor, strike to the ceiling's front porch, and take the points before the giants upstairs wake up!",
+    "updatedAt": "2026-06-12T14:24:17-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -200,6 +200,13 @@
       "kind": "bias",
       "analyst": "A huge buyer just planted a flag: the largest bid of the entire session appeared directly beneath price - bigger even than the famous morning floor that started the recovery. Price is coiling upward beneath the day's upper boundary in higher pushes, with that giant floor backing it. Two readings compete: real accumulation fueling a push through the boundary, or a billboard propping price up while bigger players sell above. As always, the truth only shows at contact. The plans are written for both.",
       "commentator": "WHO ORDERED THE WALL?! A thirty-thousand-share fortress just landed right behind our attacking line - the biggest single statement of the match! The away side's boundary defense is rebuilding too - this is shaping into a proper final-third siege, folks! Higher push, higher push, higher push - three in a row! The crowd can feel something coming. Both managers have their plays chalked. Contact decides everything!"
+    },
+    {
+      "id": "2026-06-12-tick-1408",
+      "time": "14:08",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
     }
   ]
 }
