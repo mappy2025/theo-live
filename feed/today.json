@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:09:01-04:00",
+  "updatedAt": "2026-06-12T15:09:48-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "leaning-bullish",
-    "analyst": "Third consecutive above-average fuel reading - the grind toward the boundary is methodical now, a staircase rather than a spike. The boundary defense keeps thickening in response, and for the first time in hours the giant advertisement far overhead shed a little size. The collision at the boundary is coming; the only question is whether momentum stays legal when it arrives. Patience to the contact.",
-    "commentator": "Three surges in a row - they're marching on the boundary in formation now! The defenders keep stacking that line, but did you see it? The giant billboard upstairs just LOST a few letters! Contact's coming, folks - and this time the engines are running cool enough to commit!",
-    "updatedAt": "2026-06-12T15:06:46-04:00"
+    "analyst": "Within touching distance of the boundary now - the staircase holds its shape, fuel steady, momentum legal with headroom. The boundary defense keeps reinforcing while the big advertisement above keeps shrinking: the sellers are consolidating their stand at one line. Everything is positioned for the day's deciding collision. Contact within minutes.",
+    "commentator": "One step from the boundary line, folks! The defense pours EVERYTHING into that wall - the billboard upstairs keeps emptying into it! This is the day's deciding tackle, seconds away. The bench is up, the clipboard is out, the rules are clear!",
+    "updatedAt": "2026-06-12T15:09:48-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -295,6 +295,13 @@
     {
       "id": "2026-06-12-tick-1451",
       "time": "14:51",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "2026-06-12-tick-1454",
+      "time": "14:54",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
