@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:54:01-04:00",
+  "updatedAt": "2026-06-12T14:54:43-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "neutral",
-    "analyst": "The leak continues - price oozing down through the old trapdoor zone toward the day's central magnet on thin, dry volume. Important distinction for the final half hour: a slow leak into support is not the same as a violent flush. The reversal play we'd consider requires panic - a fueled plunge, a capitulation print, a snap back. An ooze that just sits down on the level offers nothing to trade against. Patience holds; the scoreboard is protected.",
-    "commentator": "The home side's retreating slowly toward their own box - no panic, no sprint, just tired legs giving up ground. The bench knows the difference between a collapse you pounce on and a slow walk backward you leave alone. Thirty minutes left - protect the points!",
-    "updatedAt": "2026-06-12T14:51:49-04:00"
+    "analyst": "The leak never reached the magnet - buyers caught it a stretch above and the shelf beneath rebuilt itself. Now sellers stack the line directly overhead instead. The range keeps compressing into the close on dry volume: floor catches, ceiling answers, nobody commits. With the clock running out, the bar for new risk only rises. The day's work is effectively done unless the tape produces something violent.",
+    "commentator": "Caught it AGAIN before the box - this defense refuses to break! But upfield the away side mans a new line straight away. It's chess to the final whistle, folks - twenty-five minutes, both sides happy to take the draw from here unless someone gifts a chance!",
+    "updatedAt": "2026-06-12T14:54:43-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -260,6 +260,13 @@
     {
       "id": "2026-06-12-tick-1437",
       "time": "14:37",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "2026-06-12-tick-1439",
+      "time": "14:39",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
