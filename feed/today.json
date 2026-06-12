@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:42:53-04:00",
+  "updatedAt": "2026-06-12T15:45:48-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "leaning-bullish",
-    "analyst": "The closing auction brings out the giants: a buyer line nearly sixteen thousand strong just landed directly beneath price at the wall's doorstep, while the undefeated ceiling answered by growing past eight thousand. Both armies are all-in one row apart for the final minutes. We watch from the stands - the day's trading is done - but this collision will write tomorrow's opening story.",
-    "commentator": "WOULD YOU LOOK AT THIS, FOLKS! Sixteen thousand home supporters flood the box - and the away side answers with EIGHT thousand on the wall! Both armies ALL-IN, one row apart, in the dying minutes! We've got the best seat in the house and no skin left in the game - PURE THEATER!",
-    "updatedAt": "2026-06-12T15:42:53-04:00"
+    "state": "bullish",
+    "analyst": "At the sixth time of asking, with the closing auction at its back, the undefeated wall is finally crumbling - eaten down to scraps at contact while the giant buyer line beneath stands firm. The break is happening fifteen minutes after our responsible-entry window closed, and that is fine: the rule that kept us out also kept us out of five earlier failures at this exact line. Where this settles in the next quarter hour becomes the opening line of Monday's brief.",
+    "commentator": "THE WALL IS COMING DOWN! Sixth assault, auction winds howling, and the eight-thousand-strong defense is down to SCRAPS! The home army stands firm behind the ball! And our manager? Arms folded on the touchline - the window's closed, the points are banked, and Monday's team talk just wrote itself!",
+    "updatedAt": "2026-06-12T15:45:48-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
