@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T09:07:29-04:00",
+  "updatedAt": "2026-06-12T09:16:01-04:00",
   "status": "pre-open",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "pre-open",
-    "analyst": "Pre-market: a large gap up into a normal regime; the broad-market tide is sideways. Theo commits to nothing until the first 30 minutes classify the day.",
-    "commentator": "Team news: a large gap up on the schedule, a normal regime expected, away support sideways. Lineups locked at 9:30 - the first half hour decides the game plan.",
-    "updatedAt": "2026-06-12T09:07:29-04:00"
+    "state": "pre-open - on the magnet, IPO day",
+    "analyst": "Fifteen minutes to the bell on a historic day - the largest IPO ever debuts at midday, a sister company of our stock. Price sits exactly on the central magnet while both sides build fortifications: a fresh bid cluster directly below, a defended ceiling exactly at the first resistance above. Nobody commits before the new listing shows its hand. The [indicator] remains the referee; everything that fires around the sister listing's first trade gets double scrutiny - event flows mimic real signals.",
+    "commentator": "MATCHDAY - and what a day, folks! The biggest new-club debut in the history of the sport kicks off next door at noon, and HALF the market is watching that pitch instead of ours! Our match: ball on the center spot to the CENTIMETER, both walls freshly reinforced, total calm before the storm. Fifteen minutes to kickoff. Today, trust nothing loud - the noise next door will shake our stadium too!",
+    "updatedAt": "2026-06-12T09:16:01-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
