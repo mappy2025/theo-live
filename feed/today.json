@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:54:39-04:00",
+  "updatedAt": "2026-06-12T15:57:55-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "leaning-bullish",
-    "analyst": "One last push into the bell - price climbing back to the boundary's doorstep for a seventh and final look, with the closing cross moments away. Whether it settles just under or just over the line is now an auction formality. Flat, watching the finish.",
-    "commentator": "INJURY TIME and they're charging the box ONE more time! The crowd's on its feet for the final cross - whatever happens next, what a finish to a wild, wild match, folks!",
-    "updatedAt": "2026-06-12T15:54:39-04:00"
+    "state": "bullish",
+    "analyst": "The seventh approach broke through - in the closing cross, on the strongest fuel of the final hour, the ceiling that held all session finally gave way. The day ends above the broken boundary: a two-percent recovery day that opened in panic, built a base all afternoon, and closed at the highs. We finish flat by rule, profitable on the day, with Monday's map opening above conquered ground. Full review at the whistle.",
+    "commentator": "GOOOAL IN STOPPAGE TIME - THE WALL FINALLY BREAKS AT THE SEVENTH ASSAULT! The match ends with the away fortress in ruins and the home side on top! What a comeback story, folks - from the morning's disaster to closing ON THE HIGHS! Final whistle - see you at the film session!",
+    "updatedAt": "2026-06-12T15:57:55-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -410,6 +410,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1542",
+      "time": "15:42",
+      "kind": "bias",
+      "analyst": "The closing auction brings out the giants: a buyer line nearly sixteen thousand strong just landed directly beneath price at the wall's doorstep, while the undefeated ceiling answered by growing past eight thousand. Both armies are all-in one row apart for the final minutes. We watch from the stands - the day's trading is done - but this collision will write tomorrow's opening story.",
+      "commentator": "WOULD YOU LOOK AT THIS, FOLKS! Sixteen thousand home supporters flood the box - and the away side answers with EIGHT thousand on the wall! Both armies ALL-IN, one row apart, in the dying minutes! We've got the best seat in the house and no skin left in the game - PURE THEATER!"
     }
   ]
 }
