@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T09:25:01-04:00",
-  "status": "pre-open",
+  "updatedAt": "2026-06-12T09:30:01-04:00",
+  "status": "live",
   "catalysts": {
     "today": [
       "SpaceX IPO (SPCX) first trading day - biggest IPO ever ([price]B raise, ~[price]T val); TSLA rotation flows expected"
@@ -32,6 +32,13 @@
       "kind": "bias",
       "analyst": "Twenty-five minutes to the bell. After yesterday's big trend day, price opens almost exactly on the central magnet of today's freshly drawn map - the most neutral possible start. The tape's early markers: a meaningful ceiling forming right where the map's first resistance sits, and the first real bid cluster a few points below. Two scripts today: digestion (most likely after a day like yesterday) or a second trend leg - and only real volume can authorize the latter. The first half hour is the referee; Theo holds all judgment until it speaks.",
       "commentator": "MATCHDAY TWO of the public era, folks! After yesterday's two-nil masterclass, the teams line up dead center of a brand-new pitch. Early scouting: the away side is already building a wall exactly where the map says they should, and our supporters have planted their first flag a few rows below. Quiet calendar, big week ahead. Kickoff in twenty-five - the first half hour names the game!"
+    },
+    {
+      "id": "2026-06-12-kickoff",
+      "time": "09:30",
+      "kind": "kickoff",
+      "analyst": "Market open. Theo watches the first 30 minutes before committing - the [indicator] decides which playbook is valid today.",
+      "commentator": "KICKOFF! The bell rings and we're underway. Theo holds its shape for the first half hour - no wild lunges before the game shows its pattern."
     }
   ]
 }
