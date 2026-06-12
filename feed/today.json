@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:27:01-04:00",
+  "updatedAt": "2026-06-12T15:27:46-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "neutral",
-    "analyst": "Same churn, same band: another poke to the top of it sold instantly, heavy flow with zero net progress. The market is redistributing inventory before the closing auction, not trending. Position unchanged: flat, points banked, watching the two real lines that haven't been touched in hours.",
-    "commentator": "Round and round in the same ten yards, folks - heavy legs, heavy tackles, no goals! The closing minutes will decide if anyone actually wants this ball. Our side? Sitting comfortably on the points.",
-    "updatedAt": "2026-06-12T15:24:37-04:00"
+    "state": "leaning-bullish",
+    "analyst": "The churn ceiling broke - the fifth approach took out the intraday line that had rejected three pushes, and price now presses directly against the boundary defense with momentum legal and fuel at exactly average. Contact with the day's deciding wall is imminent, one last time, with the closing auction as the backdrop. The plan is written; the clock adds one amendment - a late break gets a shorter target or no trade at all.",
+    "commentator": "FIFTH ASSAULT - and this time they've broken the midfield line that stopped the last three! They're at the boundary wall NOW, folks, the closing surge at their backs! The manager taps the board: the play is written, but the ref's watch is ticking - score quickly or we shake hands!",
+    "updatedAt": "2026-06-12T15:27:46-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -337,6 +337,13 @@
     {
       "id": "2026-06-12-tick-1509",
       "time": "15:09",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "2026-06-12-tick-1512",
+      "time": "15:12",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
