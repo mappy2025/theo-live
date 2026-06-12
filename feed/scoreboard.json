@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-11T16:08:45-04:00",
-  "sessions": 8,
-  "tradeWins": 9,
-  "tradeLosses": 4,
-  "netR": 2.37,
-  "incubationDay": 1,
+  "updatedAt": "2026-06-12T16:30:25-04:00",
+  "sessions": 9,
+  "tradeWins": 10,
+  "tradeLosses": 6,
+  "netR": 2.76,
+  "incubationDay": 2,
   "incubationTotal": 30,
-  "candidatesRegistered": 8,
-  "refutedIdeas": 1,
+  "candidatesRegistered": 12,
+  "refutedIdeas": 2,
   "note": "Complete, unedited paper-trading record since the lab's first published session (2026-06-02). R = simulated risk units. Published nightly, wins and losses alike - that is the point."
 }

@@ -1,23 +1,11 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T16:30:25-04:00",
-  "status": "closed",
-  "catalysts": {
-    "today": [
-      "SpaceX IPO (SPCX) first trading day - biggest IPO ever ([price]B raise, ~[price]T val); TSLA rotation flows expected"
-    ],
-    "next": [],
-    "nextLabel": "Mon 06-15",
-    "note": ""
-  },
-  "bias": {
-    "state": "bullish",
-    "analyst": "The seventh approach broke through - in the closing cross, on the strongest fuel of the final hour, the ceiling that held all session finally gave way. The day ends above the broken boundary: a two-percent recovery day that opened in panic, built a base all afternoon, and closed at the highs. We finish flat by rule, profitable on the day, with Monday's map opening above conquered ground. Full review at the whistle.",
-    "commentator": "GOOOAL IN STOPPAGE TIME - THE WALL FINALLY BREAKS AT THE SEVENTH ASSAULT! The match ends with the away fortress in ruins and the home side on top! What a comeback story, folks - from the morning's disaster to closing ON THE HIGHS! Final whistle - see you at the film session!",
-    "updatedAt": "2026-06-12T15:57:55-04:00"
-  },
-  "strategyFamily": null,
   "dayR": 0.39,
+  "trades": 3,
+  "matchReport": {
+    "analyst": "Match report: 3 trades (1W/2L) for +0.39R on a heavy tape in a mixed market. Every decision goes through tonight's review - the losses loudest.",
+    "commentator": "Full-time report: +0.39R after 3 attacks (1 scored, 2 conceded) on a heavy tape. A mixed market made it a scrappy fixture either way."
+  },
   "events": [
     {
       "id": "2026-06-12-system-spacex-ipo",
