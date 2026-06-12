@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:24:02-04:00",
+  "updatedAt": "2026-06-12T15:24:37-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -12,9 +12,9 @@
   },
   "bias": {
     "state": "neutral",
-    "analyst": "The closing churn arrived early: violent two-way swings on the heaviest volume in an hour, with no resolution in either direction - down a dollar, up a dollar-and-a-half, back down, all inside minutes. Both defensive lines rebuilt mid-fight. This is distribution-hour noise, the most expensive tape of the day to guess in. The discipline is absolute: no position into churn, only into structure.",
-    "commentator": "End-to-end chaos now, folks - tackles flying both directions, the heaviest action in an hour and NOBODY scores! This is the messy final stretch where tired teams trade blows and smart money watches from the stands. Our points stay banked!",
-    "updatedAt": "2026-06-12T15:21:39-04:00"
+    "analyst": "Same churn, same band: another poke to the top of it sold instantly, heavy flow with zero net progress. The market is redistributing inventory before the closing auction, not trending. Position unchanged: flat, points banked, watching the two real lines that haven't been touched in hours.",
+    "commentator": "Round and round in the same ten yards, folks - heavy legs, heavy tackles, no goals! The closing minutes will decide if anyone actually wants this ball. Our side? Sitting comfortably on the points.",
+    "updatedAt": "2026-06-12T15:24:37-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
