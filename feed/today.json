@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T09:31:08-04:00",
+  "updatedAt": "2026-06-12T09:48:02-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -46,6 +46,13 @@
       "kind": "bias",
       "analyst": "Fifteen minutes to the bell on a historic day - the largest IPO ever debuts at midday, a sister company of our stock. Price sits exactly on the central magnet while both sides build fortifications: a fresh bid cluster directly below, a defended ceiling exactly at the first resistance above. Nobody commits before the new listing shows its hand. The [indicator] remains the referee; everything that fires around the sister listing's first trade gets double scrutiny - event flows mimic real signals.",
       "commentator": "MATCHDAY - and what a day, folks! The biggest new-club debut in the history of the sport kicks off next door at noon, and HALF the market is watching that pitch instead of ours! Our match: ball on the center spot to the CENTIMETER, both walls freshly reinforced, total calm before the storm. Fifteen minutes to kickoff. Today, trust nothing loud - the noise next door will shake our stadium too!"
+    },
+    {
+      "id": "2026-06-12-bias-0931",
+      "time": "09:31",
+      "kind": "bias",
+      "analyst": "The bell rings on a zero-gap open - the calmest start this stock has printed in months, on the day of the largest IPO in history. The book explains it: a heavy lid parked just above the opening price, a big bid anchor a few points below, and everyone in between holding their breath for the sister listing's first trade at midday. The [indicator] will likely be narrow and untrustworthy; the real session begins when the new stock prints. Theo trades nothing before the half-hour verdict - and keeps expectations small until the main event.",
+      "commentator": "KICKOFF - and you could hear a pin drop! Not a single step gained at the whistle, dead level start, because EVERYONE - both squads, both crowds - keeps glancing at the stadium next door where the biggest debut in history warms up for a midday kickoff. A heavy bus parked right above the center spot, our anchor wall a few rows below. First half: chess. The real fireworks come when the neighbors start playing!"
     }
   ]
 }
