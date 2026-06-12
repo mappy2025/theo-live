@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:39:41-04:00",
+  "updatedAt": "2026-06-12T14:43:08-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "neutral",
-    "analyst": "Same dry chop, one quiet change: buyers are stacking a modest shelf just beneath price, and the dips keep holding at slightly higher marks. The higher-low sequence builds - but without volume it stays a sketch, not a signal. The ceiling crew thickened their line again too. Coiled, both sides, waiting for the final-hour trigger.",
-    "commentator": "Still the chess match! The home side quietly moves a few more men behind the ball, the away side adds to their wall upfield - everyone's set up for one last push, folks. Who blinks first?",
-    "updatedAt": "2026-06-12T14:39:41-04:00"
+    "state": "leaning-bullish",
+    "analyst": "The complex is lifting together into the final hour: the rookie stock has recovered strongly from its midday slide and grinds toward its biggest overhead seller cluster, while our stock printed its third higher low and pushed back through the middle of the range. The catch remains the same - the advance is running on the thinnest volume of the day. Persistent, directional, but unfueled. The checklist still wants fuel before capital.",
+    "commentator": "Both teams from the same stable are attacking now! The new kid storms back from two goals down, our side strings together a third straight higher push - the stadium feels a finale brewing! But listen - the engines are at quarter throttle. The manager wants to see REAL pace before anyone commits. Twenty minutes of patience left in the tank!",
+    "updatedAt": "2026-06-12T14:43:08-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -228,6 +228,13 @@
       "kind": "bias",
       "analyst": "The fortress passed its exam in real time: under direct attack it absorbed the selling AND grew by a sixth - the single strongest signal in the playbook, because defenders who mean it add men during the battle, not before it. Position taken at full commitment this time: every checklist item passed - location at the level, fuel above average, momentum mid-range, the floor proving itself on contact. The ceiling overhead is proven too, so the exit is pre-sold at its front door. Buy the proven floor, sell to the proven ceiling, no greed in between.",
       "commentator": "THE TACKLE COMES IN - AND THE FORTRESS HOLDS! Thirty thousand became thirty-four and a half DURING the challenge! They're not painted on, folks, they're REAL! And there goes our manager - FULL squad committed this time, every box on the clipboard ticked! The plan is simple as Sunday league: defend from the floor, strike to the ceiling's front porch, and take the points before the giants upstairs wake up!"
+    },
+    {
+      "id": "atk-adab4e8a58c9",
+      "time": "14:28",
+      "kind": "attack",
+      "analyst": "Trade opened: a range fade, long. Risk is predefined at one unit; the exit plan exists before the entry ever does.",
+      "commentator": "Theo goes on the attack! A long move - a range fade. The back line is set before the run begins: one unit of risk, not a penny more."
     }
   ]
 }
