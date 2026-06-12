@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:24:17-04:00",
+  "updatedAt": "2026-06-12T14:29:28-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "bullish",
-    "analyst": "The fortress passed its exam in real time: under direct attack it absorbed the selling AND grew by a sixth - the single strongest signal in the playbook, because defenders who mean it add men during the battle, not before it. Position taken at full commitment this time: every checklist item passed - location at the level, fuel above average, momentum mid-range, the floor proving itself on contact. The ceiling overhead is proven too, so the exit is pre-sold at its front door. Buy the proven floor, sell to the proven ceiling, no greed in between.",
-    "commentator": "THE TACKLE COMES IN - AND THE FORTRESS HOLDS! Thirty thousand became thirty-four and a half DURING the challenge! They're not painted on, folks, they're REAL! And there goes our manager - FULL squad committed this time, every box on the clipboard ticked! The plan is simple as Sunday league: defend from the floor, strike to the ceiling's front porch, and take the points before the giants upstairs wake up!",
-    "updatedAt": "2026-06-12T14:24:17-04:00"
+    "state": "neutral",
+    "analyst": "A hard and humbling sequence: the fortress that grew during the battle - the strongest signal the playbook recognizes - vanished moments after the position went on, and price flushed through the stop before bouncing right back. The loss is recorded at the stop, no excuses, even though price recovered seconds later. The lesson is sharp: on a day this manipulated, even the best absorption signal can be one more layer of theater. The session stays profitable on the earlier banked trade. Respect for the tape goes up another notch; appetite for hero plays goes down to zero.",
+    "commentator": "OH NO - THE FORTRESS WAS A TRAPDOOR! Thirty-four thousand defenders evaporate the SECOND our full squad steps forward, the floor gives way, and the referee's whistle takes us off at the stop! And then - of course - the pitch repairs itself immediately! That's the cruelest trick this match has pulled yet, folks. The gaffer writes it in the book exactly as it happened: a clean loss, taken like a professional. Points from the first half still in the bag.",
+    "updatedAt": "2026-06-12T14:29:28-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
@@ -204,6 +204,13 @@
     {
       "id": "2026-06-12-tick-1408",
       "time": "14:08",
+      "kind": "tick",
+      "analyst": "",
+      "commentator": ""
+    },
+    {
+      "id": "2026-06-12-tick-1413",
+      "time": "14:13",
       "kind": "tick",
       "analyst": "",
       "commentator": ""
