@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T15:18:49-04:00",
+  "updatedAt": "2026-06-12T15:21:01-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -319,6 +319,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1503",
+      "time": "15:03",
+      "kind": "bias",
+      "analyst": "Second consecutive above-average fuel reading and price held its floor, pushing back through the middle of the range. The conditions are converging - but the entry is not here in no-man's land: the reward from the middle to the front of the boundary defense is below the minimum the rulebook accepts. The trade, if it comes, is AT the boundary: a genuine break that holds on real volume opens the road to the next defensive layers. The boundary wall just thickened again in anticipation.",
+      "commentator": "Two surges in a row now - the legs ARE fresher! But the gaffer waves down the midfield shot: not from there, son, the angle's all wrong! Get to the boundary line with the ball and THEN we talk. The away side sees it too - they're piling men onto that line as we speak!"
     }
   ]
 }
