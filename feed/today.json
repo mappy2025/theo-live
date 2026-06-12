@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T14:33:54-04:00",
+  "updatedAt": "2026-06-12T14:36:02-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -214,6 +214,13 @@
       "kind": "tick",
       "analyst": "",
       "commentator": ""
+    },
+    {
+      "id": "2026-06-12-bias-1419",
+      "time": "14:19",
+      "kind": "bias",
+      "analyst": "The trap snapped shut - on whoever chased. The boundary defense that 'evaporated' let price poke through, found no real buyers, and the sellers re-stacked behind the move as price fell right back. Our overheated-engines rule kept us out of exactly that chase for the third time today. Now the real examination: price is approaching the giant buyer fortress beneath. If it absorbs the selling on contact, the higher floor is real and a fourth attack on the boundary can be bought. If that fortress gets pulled as price arrives, the whole afternoon floor was a billboard - and we want no part of any of it.",
+      "commentator": "OFFSIDE TRAP! The defenders stepped aside, let the striker run through alone - and the flag goes up, possession lost, everyone back! Three times today the referee's red light kept our side out of THAT exact trap, folks. Now the ball rolls toward the thirty-thousand fortress... THIS is the tackle that tells us if the home support is real or painted on. Every eye in the stadium on the challenge!"
     }
   ]
 }
