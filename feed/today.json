@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T10:50:14-04:00",
+  "updatedAt": "2026-06-12T10:54:39-04:00",
   "status": "live",
   "catalysts": {
     "today": [
@@ -11,10 +11,10 @@
     "note": ""
   },
   "bias": {
-    "state": "live - TRADE ON: short the breakdown",
-    "analyst": "Trade on - the first position of the day, on the short side. The morning's floor shelf broke on its fourth test with the first real participation of the session, the breakdown was confirmed by the following bar, and the giant bid below was consumed at contact rather than defended. The bullish morning hypothesis lost to the referee, just as yesterday's bearish one did - in the opposite direction. Target: the front of the next wall down. The neighbor's debut can still detonate mid-trade; the stop is the contract, and it never moves.",
-    "commentator": "THEO STRIKES - ON THE COUNTER! After twenty-three patient refusals, the home side's old defensive line CRACKED on the fourth challenge - with the first real crowd-roar of the match - and the big reserve wall behind it got swallowed whole! Theo's number nine charges DOWNFIELD this time, aiming for the near post of the next stronghold. The referee tore up the morning's script - and the manager adapted in real time. Stop set, no heroics, the neighbor's kickoff still looming!",
-    "updatedAt": "2026-06-12T10:50:14-04:00"
+    "state": "live - stopped out, standing down",
+    "analyst": "The short didn't work: minutes after entry, the breakdown was violently reclaimed and the stop did its job - loss capped at exactly one risk unit, the first paid lesson of the day after seven fake moves. The galling detail - price fell back below the entry right after - changes nothing; the stop is the contract. New posture: no more breakout trades in this whipsaw. The bar for a second trade is the neighbor's first print or a true extreme with the full checklist. Capital protected, head clear.",
+    "commentator": "OUCH - the counter-attack got COUNTERED! Theo's striker was through on goal when the home crowd surged back and the referee's whistle stopped the run - one goal conceded, exactly the price the manager had agreed to pay, not a penny more. And get this: the pitch tilted back our way SECONDS after the whistle. Football is cruel, folks. The manager's response: pull the strikers, park the bus, and wait for the neighbor's kickoff. Seven fake runs in this match - SEVEN! One-nil down, week still well in front.",
+    "updatedAt": "2026-06-12T10:54:39-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
