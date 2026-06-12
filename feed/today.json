@@ -1,20 +1,30 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T09:05:24-04:00",
+  "updatedAt": "2026-06-12T09:07:29-04:00",
   "status": "pre-open",
   "catalysts": {
-    "today": [],
+    "today": [
+      "SpaceX IPO (SPCX) first trading day - biggest IPO ever ([price]B raise, ~[price]T val); TSLA rotation flows expected"
+    ],
     "next": [],
     "nextLabel": "Mon 06-15",
     "note": ""
   },
   "bias": {
-    "state": "pre-open - opening at the magnet",
-    "analyst": "Twenty-five minutes to the bell. After yesterday's big trend day, price opens almost exactly on the central magnet of today's freshly drawn map - the most neutral possible start. The tape's early markers: a meaningful ceiling forming right where the map's first resistance sits, and the first real bid cluster a few points below. Two scripts today: digestion (most likely after a day like yesterday) or a second trend leg - and only real volume can authorize the latter. The first half hour is the referee; Theo holds all judgment until it speaks.",
-    "commentator": "MATCHDAY TWO of the public era, folks! After yesterday's two-nil masterclass, the teams line up dead center of a brand-new pitch. Early scouting: the away side is already building a wall exactly where the map says they should, and our supporters have planted their first flag a few rows below. Quiet calendar, big week ahead. Kickoff in twenty-five - the first half hour names the game!",
-    "updatedAt": "2026-06-12T09:05:24-04:00"
+    "state": "pre-open",
+    "analyst": "Pre-market: a large gap up into a normal regime; the broad-market tide is sideways. Theo commits to nothing until the first 30 minutes classify the day.",
+    "commentator": "Team news: a large gap up on the schedule, a normal regime expected, away support sideways. Lineups locked at 9:30 - the first half hour decides the game plan.",
+    "updatedAt": "2026-06-12T09:07:29-04:00"
   },
   "strategyFamily": null,
   "dayR": null,
-  "events": []
+  "events": [
+    {
+      "id": "2026-06-12-system-spacex-ipo",
+      "time": "09:10",
+      "kind": "bias",
+      "analyst": "HISTORIC DAY MARKER: the largest IPO in history prices today - a sister company of our stock, run by the same founder, debuts at a valuation near two trillion. All week, money has rotated out of our stock to chase the new listing; that selling was the siege we watched for two days. Expect abnormal conditions, especially around the new listing's first trade (likely midday): event-driven flows can fire every volume signal without any structural meaning. Extra skepticism on breakouts today.",
+      "commentator": "STOP THE PRESSES! A new club from the SAME OWNER makes its debut today in the biggest transfer-window splash in market history! Half our crowd has been leaving early all week to queue for tickets next door - THAT was the siege we survived! Expect a wild, noisy stadium around their midday kickoff. The manager's order: trust nothing loud today, verify everything twice."
+    }
+  ]
 }
